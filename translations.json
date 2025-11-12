@@ -1,0 +1,416 @@
+{
+  "en": {
+    "hero": {
+      "title": "Transform Your Data Into Action",
+      "subtitle": "Professional business intelligence and data analysis services to help your business make informed decisions",
+      "cta": "Get Started"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive data solutions tailored to your business needs",
+      "learnMore": "Learn More →",
+      "dataStreams": {
+        "title": "Data Streams & Sources",
+        "description": "Connect and integrate multiple data sources into a unified system for seamless data flow"
+      },
+      "centralization": {
+        "title": "Data Centralization & Transformation",
+        "description": "Centralize disparate data sources and transform them into structured, actionable formats"
+      },
+      "etl": {
+        "title": "ETL Pipelines",
+        "description": "Build robust Extract, Transform, Load pipelines for automated data processing"
+      },
+      "dashboards": {
+        "title": "Interactive Dashboards",
+        "description": "Create beautiful, interactive dashboards that visualize your business metrics in real-time"
+      },
+      "insights": {
+        "title": "Data Insights & Analytics",
+        "description": "Extract meaningful insights and answer critical business questions using advanced analytics"
+      },
+      "forecasting": {
+        "title": "Forecasting & Predictions",
+        "description": "Leverage machine learning models to forecast trends and make data-driven predictions"
+      }
+    },
+    "serviceDetails": {
+      "dataStreams": {
+        "title": "Data Streams & Sources",
+        "detailedDescription": "We help you connect and integrate data from multiple sources into a unified, reliable system. Whether it's databases, APIs, cloud services, or IoT devices, we ensure your data flows seamlessly across your organization.",
+        "features": [
+          "Real-time data streaming and ingestion",
+          "Support for multiple data sources (SQL, NoSQL, APIs, files)",
+          "Automated data validation and quality checks",
+          "Scalable architecture for growing data volumes",
+          "Integration with cloud platforms (AWS, Azure, GCP)"
+        ],
+        "benefits": [
+          "Eliminate data silos across departments",
+          "Access all your data in one place",
+          "Reduce manual data collection time by 80%",
+          "Ensure data consistency and reliability",
+          "Scale effortlessly as your business grows"
+        ]
+      },
+      "centralization": {
+        "title": "Data Centralization & Transformation",
+        "detailedDescription": "Transform scattered data from various sources into a centralized, clean, and structured format. We create data warehouses and lakes that become the single source of truth for your organization.",
+        "features": [
+          "Data warehouse design and implementation",
+          "Data lake architecture for unstructured data",
+          "Data cleaning and standardization",
+          "Schema design and optimization",
+          "Historical data preservation and versioning"
+        ],
+        "benefits": [
+          "Single source of truth for all business data",
+          "Faster query performance and reporting",
+          "Improved data accuracy and consistency",
+          "Better compliance and data governance",
+          "Reduced storage costs through optimization"
+        ]
+      },
+      "etl": {
+        "title": "ETL Pipelines",
+        "detailedDescription": "Build robust, automated ETL (Extract, Transform, Load) pipelines that handle your data processing needs efficiently. Our pipelines are designed for reliability, scalability, and ease of maintenance.",
+        "features": [
+          "Automated data extraction from various sources",
+          "Complex data transformations and enrichment",
+          "Incremental and full load strategies",
+          "Error handling and data recovery",
+          "Monitoring and alerting systems"
+        ],
+        "benefits": [
+          "Eliminate manual data processing tasks",
+          "Ensure data freshness and timeliness",
+          "Reduce errors and improve data quality",
+          "Save hundreds of hours monthly",
+          "Get instant notifications on pipeline issues"
+        ]
+      },
+      "dashboards": {
+        "title": "Interactive Dashboards",
+        "detailedDescription": "Create stunning, interactive dashboards that bring your data to life. We design intuitive visualizations that help you monitor KPIs, track performance, and make quick decisions based on real-time data.",
+        "features": [
+          "Custom dashboard design tailored to your needs",
+          "Real-time data visualization",
+          "Interactive filters and drill-down capabilities",
+          "Mobile-responsive layouts",
+          "Integration with popular BI tools (Tableau, Power BI, Looker)"
+        ],
+        "benefits": [
+          "Monitor business performance at a glance",
+          "Make faster, data-driven decisions",
+          "Share insights across teams easily",
+          "Identify trends and anomalies instantly",
+          "Increase team productivity and alignment"
+        ]
+      },
+      "insights": {
+        "title": "Data Insights & Analytics",
+        "detailedDescription": "Go beyond basic reporting with advanced analytics that uncover hidden patterns, answer complex questions, and provide actionable insights. Our data scientists help you understand what your data is really telling you.",
+        "features": [
+          "Advanced statistical analysis",
+          "Customer segmentation and behavior analysis",
+          "A/B testing and experimentation",
+          "Root cause analysis",
+          "Custom analytical models"
+        ],
+        "benefits": [
+          "Discover opportunities for growth",
+          "Understand customer behavior deeply",
+          "Optimize operations and reduce costs",
+          "Answer critical business questions",
+          "Gain competitive advantage through data"
+        ]
+      },
+      "forecasting": {
+        "title": "Forecasting & Predictions",
+        "detailedDescription": "Leverage machine learning and statistical models to predict future trends, forecast demand, and anticipate market changes. Make proactive decisions based on data-driven predictions rather than gut feelings.",
+        "features": [
+          "Time series forecasting",
+          "Demand prediction models",
+          "Churn prediction and prevention",
+          "Price optimization algorithms",
+          "Anomaly detection systems"
+        ],
+        "benefits": [
+          "Anticipate market trends before competitors",
+          "Optimize inventory and reduce waste",
+          "Predict and prevent customer churn",
+          "Improve financial planning accuracy",
+          "Make proactive business decisions"
+        ]
+      }
+    },
+    "modal": {
+      "featuresTitle": "Key Features",
+      "benefitsTitle": "Benefits",
+      "cta": "Get Started"
+    },
+    "whyUs": {
+      "title": "Why Choose Us",
+      "benefit1": {
+        "title": "Expert Team",
+        "description": "Experienced data scientists and engineers dedicated to your success"
+      },
+      "benefit2": {
+        "title": "Custom Solutions",
+        "description": "Tailored approaches that fit your unique business requirements"
+      },
+      "benefit3": {
+        "title": "Proven Results",
+        "description": "Track record of delivering measurable business value"
+      }
+    },
+    "assessment": {
+      "title": "Free BI Maturity Assessment",
+      "intro": "Discover where your business stands in terms of data maturity and digital transformation",
+      "feature1": {
+        "title": "Quick & Easy",
+        "description": "Takes only 10-15 minutes to complete"
+      },
+      "feature2": {
+        "title": "Personalized Report",
+        "description": "Receive a free BI maturity evaluation report"
+      },
+      "feature3": {
+        "title": "100% Confidential",
+        "description": "Your information is secure and private"
+      },
+      "cta": "Start Your Free Assessment",
+      "card": {
+        "title": "Evaluate Your Data Maturity",
+        "description": "Understand your current capabilities and identify growth opportunities"
+      }
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "subtitle": "Ready to transform your data? Let's talk about your project",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "loading": "Loading...",
+      "formPlaceholder": "Replace the iframe src with your Google Form embed URL",
+      "formInstructions": "Go to your Google Form → Send → Embed HTML → Copy the URL"
+    },
+    "footer": {
+      "copyright": "© 2025 Enovis Software S.R.L. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    },
+    "cookie": {
+      "message": "We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies.",
+      "learnMore": "Learn More",
+      "accept": "Accept"
+    }
+  },
+  "ro": {
+    "hero": {
+      "title": "Transformă Datele în Acțiune",
+      "subtitle": "Servicii profesionale de business intelligence și analiză de date pentru decizii informate în afacerea ta",
+      "cta": "Începe Acum"
+    },
+    "services": {
+      "title": "Serviciile Noastre",
+      "subtitle": "Soluții complete de date adaptate nevoilor afacerii tale",
+      "learnMore": "Află Mai Mult →",
+      "dataStreams": {
+        "title": "Fluxuri și Surse de Date",
+        "description": "Conectează și integrează multiple surse de date într-un sistem unificat pentru un flux continuu de informații"
+      },
+      "centralization": {
+        "title": "Centralizare și Transformare Date",
+        "description": "Centralizează sursele disparate de date și transformă-le în formate structurate și acționabile"
+      },
+      "etl": {
+        "title": "Pipeline-uri ETL",
+        "description": "Construiește pipeline-uri robuste de Extragere, Transformare și Încărcare pentru procesare automată a datelor"
+      },
+      "dashboards": {
+        "title": "Dashboard-uri Interactive",
+        "description": "Creează dashboard-uri interactive și atractive care vizualizează metricile afacerii tale în timp real"
+      },
+      "insights": {
+        "title": "Insight-uri și Analiză Date",
+        "description": "Extrage insight-uri semnificative și răspunde la întrebări critice de business folosind analiză avansată"
+      },
+      "forecasting": {
+        "title": "Prognoze și Predicții",
+        "description": "Folosește modele de machine learning pentru a prognoza tendințe și a face predicții bazate pe date"
+      }
+    },
+    "serviceDetails": {
+      "dataStreams": {
+        "title": "Fluxuri și Surse de Date",
+        "detailedDescription": "Te ajutăm să conectezi și să integrezi date din multiple surse într-un sistem unificat și fiabil. Fie că sunt baze de date, API-uri, servicii cloud sau dispozitive IoT, ne asigurăm că datele tale circulă continuu în organizația ta.",
+        "features": [
+          "Streaming și ingestie de date în timp real",
+          "Suport pentru multiple surse (SQL, NoSQL, API-uri, fișiere)",
+          "Validare automată și verificări de calitate",
+          "Arhitectură scalabilă pentru volume crescânde de date",
+          "Integrare cu platforme cloud (AWS, Azure, GCP)"
+        ],
+        "benefits": [
+          "Elimină silozurile de date între departamente",
+          "Acces la toate datele într-un singur loc",
+          "Reducere cu 80% a timpului de colectare manuală",
+          "Asigură consistența și fiabilitatea datelor",
+          "Scalabilitate ușoară pe măsură ce afacerea crește"
+        ]
+      },
+      "centralization": {
+        "title": "Centralizare și Transformare Date",
+        "detailedDescription": "Transformăm datele împrăștiate din diverse surse într-un format centralizat, curat și structurat. Creăm depozite și lacuri de date care devin sursa unică de adevăr pentru organizația ta.",
+        "features": [
+          "Design și implementare data warehouse",
+          "Arhitectură data lake pentru date nestructurate",
+          "Curățare și standardizare date",
+          "Design și optimizare schemă",
+          "Păstrare și versionare date istorice"
+        ],
+        "benefits": [
+          "Sursă unică de adevăr pentru toate datele business",
+          "Performanță mai rapidă în interogări și raportare",
+          "Acuratețe și consistență îmbunătățită",
+          "Conformitate și guvernanță mai bună",
+          "Costuri de stocare reduse prin optimizare"
+        ]
+      },
+      "etl": {
+        "title": "Pipeline-uri ETL",
+        "detailedDescription": "Construim pipeline-uri ETL (Extract, Transform, Load) robuste și automate care gestionează eficient nevoile de procesare a datelor. Pipeline-urile noastre sunt proiectate pentru fiabilitate, scalabilitate și ușurință în întreținere.",
+        "features": [
+          "Extracție automată din diverse surse",
+          "Transformări complexe și îmbogățire date",
+          "Strategii de încărcare incrementală și completă",
+          "Gestionare erori și recuperare date",
+          "Sisteme de monitorizare și alertare"
+        ],
+        "benefits": [
+          "Elimină sarcinile manuale de procesare",
+          "Asigură prospețimea și actualitatea datelor",
+          "Reduce erorile și îmbunătățește calitatea",
+          "Economisește sute de ore lunar",
+          "Notificări instant la probleme"
+        ]
+      },
+      "dashboards": {
+        "title": "Dashboard-uri Interactive",
+        "detailedDescription": "Creăm dashboard-uri interactive spectaculoase care aduc datele tale la viață. Proiectăm vizualizări intuitive care te ajută să monitorizezi KPI-uri, să urmărești performanța și să iei decizii rapide bazate pe date în timp real.",
+        "features": [
+          "Design personalizat adaptat nevoilor tale",
+          "Vizualizare date în timp real",
+          "Filtre interactive și capabilități drill-down",
+          "Layout-uri responsive pentru mobil",
+          "Integrare cu instrumente BI populare (Tableau, Power BI, Looker)"
+        ],
+        "benefits": [
+          "Monitorizează performanța business dintr-o privire",
+          "Decizii mai rapide bazate pe date",
+          "Partajare ușoară a insight-urilor între echipe",
+          "Identificare instant a tendințelor și anomaliilor",
+          "Creșterea productivității și alinierii echipei"
+        ]
+      },
+      "insights": {
+        "title": "Insight-uri și Analiză Date",
+        "detailedDescription": "Depășește raportarea de bază cu analiză avansată care descoperă patterns ascunse, răspunde la întrebări complexe și oferă insight-uri acționabile. Data scientists-ii noștri te ajută să înțelegi ce îți spun cu adevărat datele tale.",
+        "features": [
+          "Analiză statistică avansată",
+          "Segmentare clienți și analiză comportament",
+          "Testare A/B și experimentare",
+          "Analiză cauză-rădăcină",
+          "Modele analitice personalizate"
+        ],
+        "benefits": [
+          "Descoperă oportunități de creștere",
+          "Înțelege profund comportamentul clienților",
+          "Optimizează operațiunile și reduce costurile",
+          "Răspunde la întrebări critice de business",
+          "Câștigă avantaj competitiv prin date"
+        ]
+      },
+      "forecasting": {
+        "title": "Prognoze și Predicții",
+        "detailedDescription": "Folosește machine learning și modele statistice pentru a prezice tendințe viitoare, a prognoza cererea și a anticipa schimbările pieței. Ia decizii proactive bazate pe predicții fundamentate în date, nu pe intuiție.",
+        "features": [
+          "Prognoze time series",
+          "Modele de predicție a cererii",
+          "Predicție și prevenire churn",
+          "Algoritmi de optimizare prețuri",
+          "Sisteme de detectare anomalii"
+        ],
+        "benefits": [
+          "Anticipează tendințele pieței înaintea competitorilor",
+          "Optimizează inventarul și reduce pierderile",
+          "Prezice și previne pierderea clienților",
+          "Îmbunătățește acuratețea planificării financiare",
+          "Ia decizii business proactive"
+        ]
+      }
+    },
+    "modal": {
+      "featuresTitle": "Caracteristici Cheie",
+      "benefitsTitle": "Beneficii",
+      "cta": "Începe Acum"
+    },
+    "whyUs": {
+      "title": "De Ce Să Ne Alegi",
+      "benefit1": {
+        "title": "Echipă de Experți",
+        "description": "Data scientists și ingineri experimentați dedicați succesului tău"
+      },
+      "benefit2": {
+        "title": "Soluții Personalizate",
+        "description": "Abordări adaptate cerințelor unice ale afacerii tale"
+      },
+      "benefit3": {
+        "title": "Rezultate Dovedite",
+        "description": "Istoric de succes în livrarea de valoare măsurabilă pentru business"
+      }
+    },
+    "assessment": {
+      "title": "Evaluare Gratuită a Maturității BI",
+      "intro": "Descoperă unde se situează afacerea ta în ceea ce privește maturitatea datelor și transformarea digitală",
+      "feature1": {
+        "title": "Rapid & Ușor",
+        "description": "Durează doar 10-15 minute pentru completare"
+      },
+      "feature2": {
+        "title": "Raport Personalizat",
+        "description": "Primești un raport gratuit de evaluare a maturității BI"
+      },
+      "feature3": {
+        "title": "100% Confidențial",
+        "description": "Informațiile tale sunt sigure și private"
+      },
+      "cta": "Începe Evaluarea Gratuită",
+      "card": {
+        "title": "Evaluează Maturitatea Datelor Tale",
+        "description": "Înțelege capabilitățile actuale și identifică oportunități de creștere"
+      }
+    },
+    "contact": {
+      "title": "Intră în Legătură",
+      "subtitle": "Gata să îți transformi datele? Hai să discutăm despre proiectul tău",
+      "emailLabel": "Email",
+      "phoneLabel": "Telefon",
+      "loading": "Se încarcă...",
+      "formPlaceholder": "Înlocuiește sursa iframe cu URL-ul formularului tău Google",
+      "formInstructions": "Mergi la formularul Google → Trimite → Embed HTML → Copiază URL-ul"
+    },
+    "footer": {
+      "copyright": "© 2025 Enovis Software S.R.L. Toate drepturile rezervate.",
+      "privacy": "Politica de Confidențialitate",
+      "terms": "Termeni și Condiții",
+      "cookies": "Politica Cookie-uri"
+    },
+    "cookie": {
+      "message": "Folosim cookie-uri pentru a îmbunătăți experiența ta. Continuând să vizitezi acest site, ești de acord cu utilizarea cookie-urilor.",
+      "learnMore": "Află Mai Mult",
+      "accept": "Accept"
+    }
+  }
+}

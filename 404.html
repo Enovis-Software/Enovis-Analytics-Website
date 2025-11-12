@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Page Not Found - Enovis Analytics">
+    <title>404 - Page Not Found | Enovis Analytics</title>
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-34CDKZMRJT"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-34CDKZMRJT');
+    </script>
+    
+    <style>
+        .error-page {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: var(--spacing-md);
+            background: var(--gradient-subtle);
+        }
+        .error-content {
+            text-align: center;
+            max-width: 600px;
+        }
+        .error-code {
+            font-size: 8rem;
+            font-weight: 700;
+            background: var(--gradient-blue);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1;
+            margin-bottom: var(--spacing-md);
+        }
+        .error-title {
+            font-size: 2rem;
+            font-weight: 600;
+            color: var(--near-black);
+            margin-bottom: var(--spacing-sm);
+        }
+        .error-message {
+            font-size: 1.125rem;
+            color: var(--gray);
+            margin-bottom: var(--spacing-lg);
+            line-height: 1.6;
+        }
+        .error-actions {
+            display: flex;
+            gap: var(--spacing-sm);
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .error-button {
+            display: inline-flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+            padding: 14px 28px;
+            background: var(--gradient-blue);
+            color: var(--white);
+            text-decoration: none;
+            border-radius: var(--radius-md);
+            font-weight: 600;
+            transition: var(--transition-base);
+        }
+        .error-button:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+        .error-button-secondary {
+            background: var(--white);
+            color: var(--primary-blue);
+            border: 2px solid var(--primary-blue);
+        }
+        @media (max-width: 480px) {
+            .error-code {
+                font-size: 5rem;
+            }
+            .error-title {
+                font-size: 1.5rem;
+            }
+            .error-actions {
+                flex-direction: column;
+            }
+            .error-button {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="error-page">
+        <div class="error-content">
+            <div class="error-code">404</div>
+            <h1 class="error-title">Page Not Found</h1>
+            <p class="error-message">Sorry, the page you're looking for doesn't exist or has been moved. Let's get you back on track.</p>
+            <div class="error-actions">
+                <a href="index.html" class="error-button">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width: 20px; height: 20px;">
+                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                    </svg>
+                    Go Home
+                </a>
+                <a href="javascript:history.back()" class="error-button error-button-secondary">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width: 20px; height: 20px;">
+                        <line x1="19" y1="12" x2="5" y2="12"></line>
+                        <polyline points="12 19 5 12 12 5"></polyline>
+                    </svg>
+                    Go Back
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

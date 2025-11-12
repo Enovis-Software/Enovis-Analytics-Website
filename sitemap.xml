@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://analytics.enovis.ro/</loc>
+    <loc>https://enovis-software.github.io/Enovis-Analytics-Website/</loc>
     <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://analytics.enovis.ro/index.html</loc>
+    <loc>https://enovis-software.github.io/Enovis-Analytics-Website/index.html</loc>
     <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://analytics.enovis.ro/privacy-policy.html</loc>
+    <loc>https://enovis-software.github.io/Enovis-Analytics-Website/privacy-policy.html</loc>
     <lastmod>2025-11-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://analytics.enovis.ro/terms-of-service.html</loc>
+    <loc>https://enovis-software.github.io/Enovis-Analytics-Website/terms-of-service.html</loc>
     <lastmod>2025-11-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://analytics.enovis.ro/cookie-policy.html</loc>
+    <loc>https://enovis-software.github.io/Enovis-Analytics-Website/cookie-policy.html</loc>
     <lastmod>2025-11-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

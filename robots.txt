@@ -8,7 +8,7 @@ Allow: /
 # Disallow: /admin/
 
 # Sitemap location
-Sitemap: https://enovis-software.github.io/Enovis-Analytics-Website/sitemap.xml
+Sitemap: https://analytics.enovis.ro/sitemap.xml
 
 # Crawl-delay (optional, adjust if needed)
 Crawl-delay: 0

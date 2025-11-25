@@ -101,6 +101,12 @@ body {
     align-items: center;
 }
 
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+}
+
 .logo {
     font-size: 1.5rem;
     font-weight: 700;
@@ -138,6 +144,40 @@ body {
     background: var(--white);
     color: var(--primary-blue);
     box-shadow: var(--shadow-sm);
+}
+
+.demo-link {
+    padding: 8px 20px;
+    background: var(--gradient-blue);
+    color: var(--white);
+    text-decoration: none;
+    border-radius: var(--radius-sm);
+    font-weight: 600;
+    font-size: 0.9375rem;
+    transition: var(--transition-fast);
+    box-shadow: var(--shadow-sm);
+}
+
+.demo-link:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.demo-link {
+    padding: 8px 20px;
+    background: var(--gradient-blue);
+    color: var(--white);
+    text-decoration: none;
+    border-radius: var(--radius-sm);
+    font-weight: 600;
+    font-size: 0.9375rem;
+    transition: var(--transition-fast);
+    box-shadow: var(--shadow-sm);
+}
+
+.demo-link:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
 }
 
 /* ==========================================
@@ -813,6 +853,34 @@ body {
 }
 
 @media (max-width: 768px) {
+    .nav-content {
+        flex-wrap: wrap;
+        gap: var(--spacing-sm);
+    }
+    
+    .logo {
+        font-size: 1.25rem;
+    }
+    
+    .nav-right {
+        gap: var(--spacing-xs);
+        flex-wrap: wrap;
+    }
+    
+    .demo-link {
+        padding: 6px 14px;
+        font-size: 0.875rem;
+    }
+    
+    .language-switcher {
+        padding: 3px;
+    }
+    
+    .lang-btn {
+        padding: 5px 12px;
+        font-size: 0.8125rem;
+    }
+    
     .hero .container {
         grid-template-columns: 1fr;
     }
@@ -885,6 +953,45 @@ body {
     :root {
         --spacing-lg: 3rem;
         --spacing-xl: 4rem;
+    }
+    
+    .container {
+        padding: 0 var(--spacing-sm);
+    }
+    
+    .navbar {
+        padding: var(--spacing-xs) 0;
+    }
+    
+    .nav-content {
+        gap: var(--spacing-xs);
+    }
+    
+    .logo {
+        font-size: 1.125rem;
+        flex: 1;
+        min-width: 0;
+    }
+    
+    .nav-right {
+        gap: 6px;
+        flex-shrink: 0;
+    }
+    
+    .demo-link {
+        padding: 6px 12px;
+        font-size: 0.8125rem;
+        white-space: nowrap;
+    }
+    
+    .language-switcher {
+        padding: 2px;
+        gap: 2px;
+    }
+    
+    .lang-btn {
+        padding: 4px 10px;
+        font-size: 0.75rem;
     }
     
     .hero-title {

@@ -204,6 +204,144 @@
       "message": "We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies.",
       "learnMore": "Learn More",
       "accept": "Accept"
+    },
+    "targetAudience": {
+      "title": "Who We Serve",
+      "subtitle": "We work with businesses of all sizes, from startups to enterprises, across various industries",
+      "sme": {
+        "title": "Small & Medium Enterprises (SMEs)",
+        "description": "Companies with 10-250 employees looking to establish their first data infrastructure, automate reporting, and gain insights from their business data without the complexity of enterprise solutions.",
+        "needs": {
+          "0": "Affordable BI solutions",
+          "1": "Quick implementation",
+          "2": "Easy-to-use dashboards",
+          "3": "Data integration from multiple sources"
+        }
+      },
+      "startups": {
+        "title": "Startups & Scale-ups",
+        "description": "Fast-growing companies (5-50 employees) that need scalable data solutions from day one, investor-ready reporting, and data-driven decision-making capabilities to fuel their growth.",
+        "needs": {
+          "0": "Scalable architecture",
+          "1": "Investor reporting dashboards",
+          "2": "Product analytics",
+          "3": "Customer behavior insights"
+        }
+      },
+      "corporations": {
+        "title": "Corporations & Large Enterprises",
+        "description": "Established organizations (250+ employees) seeking to modernize legacy systems, consolidate data silos, implement advanced analytics, and improve data governance across departments.",
+        "needs": {
+          "0": "Enterprise data warehouses",
+          "1": "Advanced analytics & ML",
+          "2": "Data governance & compliance",
+          "3": "Multi-department integration"
+        }
+      },
+      "industries": {
+        "title": "Industries We Serve",
+        "retail": "Retail & E-commerce",
+        "manufacturing": "Manufacturing",
+        "finance": "Financial Services",
+        "healthcare": "Healthcare",
+        "logistics": "Logistics & Supply Chain",
+        "tech": "Technology & SaaS",
+        "services": "Professional Services",
+        "other": "And More"
+      }
+    },
+    "pricing": {
+      "title": "Pricing & Investment",
+      "subtitle": "Transparent pricing tailored to your needs. Every project is custom-quoted based on scope and complexity.",
+      "approach": {
+        "title": "Our Pricing Approach",
+        "description": "We believe in fair, transparent pricing. Each project is unique, so we provide custom quotes after understanding your specific requirements. Our pricing is based on project scope, complexity, timeline, and ongoing support needs."
+      },
+      "ranges": {
+        "title": "Investment Ranges",
+        "starter": {
+          "title": "Starter Projects",
+          "description": "Perfect for small businesses getting started with data analytics",
+          "price": "From €999",
+          "features": {
+            "0": "Basic dashboards",
+            "1": "Simple data integrations",
+            "2": "Initial BI setup",
+            "3": "Email support"
+          }
+        },
+        "standard": {
+          "title": "Standard Projects",
+          "popular": "Most Popular",
+          "description": "Ideal for growing businesses ready to scale their data infrastructure",
+          "price": "€2,499 - €7,999",
+          "features": {
+            "0": "ETL pipelines",
+            "1": "Data warehouses",
+            "2": "Comprehensive dashboards",
+            "3": "Multi-source integrations",
+            "4": "Priority support"
+          }
+        },
+        "enterprise": {
+          "title": "Enterprise Solutions",
+          "description": "Complete data transformation for large organizations",
+          "price": "From €7,999",
+          "features": {
+            "0": "Complex architectures",
+            "1": "Advanced analytics & ML",
+            "2": "Full-scale BI transformation",
+            "3": "Dedicated support",
+            "4": "Custom solutions"
+          }
+        }
+      },
+      "note": "Note: All prices are in EUR and exclude VAT. Final pricing depends on project requirements, data volume, integration complexity, and support level. We also offer monthly retainer packages for ongoing support and maintenance.",
+      "cta": "Get a Custom Quote"
+    },
+    "about": {
+      "title": "About Enovis Analytics",
+      "intro": "We are a specialized business intelligence and data analytics consultancy dedicated to helping businesses transform their data into actionable insights and strategic advantages.",
+      "experience": {
+        "title": "Our Experience & Expertise",
+        "description": "With extensive experience across multiple domains of technology and data management, we bring a comprehensive skill set to every project. Our expertise spans:"
+      },
+      "expertise": {
+        "web": {
+          "title": "Web Technologies",
+          "description": "Modern web development using cutting-edge frameworks and technologies to build scalable, responsive applications and data visualization platforms."
+        },
+        "dataAnalysis": {
+          "title": "Data Analysis",
+          "description": "Advanced statistical analysis, data mining, and pattern recognition to uncover hidden insights and answer complex business questions."
+        },
+        "database": {
+          "title": "Database Administration",
+          "description": "Expert management of SQL and NoSQL databases, optimization, performance tuning, and ensuring data integrity across enterprise systems."
+        },
+        "cloud": {
+          "title": "Cloud Development",
+          "description": "Building scalable, cloud-native solutions on AWS, Azure, and GCP, including serverless architectures and cloud data warehouses."
+        },
+        "erp": {
+          "title": "ERP Development",
+          "description": "Custom ERP solutions and integrations that streamline business processes, improve efficiency, and provide unified data management."
+        },
+        "bi": {
+          "title": "BI & Business Intelligence",
+          "description": "End-to-end BI solutions from data warehousing to interactive dashboards, helping organizations make data-driven decisions."
+        }
+      },
+      "approach": {
+        "title": "Our Approach",
+        "description": "We believe in understanding your business first. Every solution we deliver is tailored to your specific needs, industry, and goals. Our collaborative approach ensures that we work closely with your team to deliver solutions that not only meet technical requirements but also drive real business value.",
+        "description2": "From startups looking to establish their first data infrastructure to established enterprises seeking to modernize their analytics capabilities, we have the experience and expertise to guide you through your data journey."
+      },
+      "cta": {
+        "title": "Ready to Transform Your Data?",
+        "description": "Let's discuss how we can help your business leverage data for better decision-making and competitive advantage.",
+        "button": "Get In Touch"
+      }
     }
   },
   "ro": {
@@ -411,6 +549,144 @@
       "message": "Folosim cookie-uri pentru a îmbunătăți experiența ta. Continuând să vizitezi acest site, ești de acord cu utilizarea cookie-urilor.",
       "learnMore": "Află Mai Mult",
       "accept": "Accept"
+    },
+    "targetAudience": {
+      "title": "Cui Ne Adresăm",
+      "subtitle": "Lucrăm cu afaceri de toate dimensiunile, de la startup-uri la întreprinderi, din diverse industrii",
+      "sme": {
+        "title": "Întreprinderi Mici și Mijlocii (IMM)",
+        "description": "Companii cu 10-250 de angajați care doresc să-și stabilească prima infrastructură de date, să automatizeze raportarea și să obțină insight-uri din datele lor de business fără complexitatea soluțiilor enterprise.",
+        "needs": {
+          "0": "Soluții BI accesibile",
+          "1": "Implementare rapidă",
+          "2": "Dashboard-uri ușor de folosit",
+          "3": "Integrare date din multiple surse"
+        }
+      },
+      "startups": {
+        "title": "Startup-uri și Scale-up-uri",
+        "description": "Companii în creștere rapidă (5-50 angajați) care au nevoie de soluții de date scalabile de la început, raportare pregătită pentru investitori și capabilități de luare a deciziilor bazate pe date pentru a alimenta creșterea.",
+        "needs": {
+          "0": "Arhitectură scalabilă",
+          "1": "Dashboard-uri pentru investitori",
+          "2": "Analiză produs",
+          "3": "Insight-uri comportament clienți"
+        }
+      },
+      "corporations": {
+        "title": "Corporații și Întreprinderi Mari",
+        "description": "Organizații stabilite (250+ angajați) care caută să modernizeze sistemele legacy, să consolideze silozurile de date, să implementeze analiză avansată și să îmbunătățească guvernanța datelor între departamente.",
+        "needs": {
+          "0": "Data warehouses enterprise",
+          "1": "Analiză avansată & ML",
+          "2": "Guvernanță date & conformitate",
+          "3": "Integrare multi-departament"
+        }
+      },
+      "industries": {
+        "title": "Industriile pe Care Le Servim",
+        "retail": "Retail & E-commerce",
+        "manufacturing": "Producție",
+        "finance": "Servicii Financiare",
+        "healthcare": "Sănătate",
+        "logistics": "Logistică & Supply Chain",
+        "tech": "Tehnologie & SaaS",
+        "services": "Servicii Profesionale",
+        "other": "Și Altele"
+      }
+    },
+    "pricing": {
+      "title": "Prețuri & Investiție",
+      "subtitle": "Prețuri transparente adaptate nevoilor tale. Fiecare proiect primește o ofertă personalizată bazată pe scop și complexitate.",
+      "approach": {
+        "title": "Abordarea Noastră de Prețuri",
+        "description": "Credem în prețuri corecte și transparente. Fiecare proiect este unic, așa că oferim cotații personalizate după ce înțelegem cerințele tale specifice. Prețurile noastre se bazează pe scopul proiectului, complexitate, termen și nevoi de suport continuu."
+      },
+      "ranges": {
+        "title": "Gamă de Investiții",
+        "starter": {
+          "title": "Proiecte Starter",
+          "description": "Perfect pentru afaceri mici care încep cu analiza datelor",
+          "price": "De la €999",
+          "features": {
+            "0": "Dashboard-uri de bază",
+            "1": "Integrări simple de date",
+            "2": "Configurare inițială BI",
+            "3": "Suport email"
+          }
+        },
+        "standard": {
+          "title": "Proiecte Standard",
+          "popular": "Cel Mai Popular",
+          "description": "Ideal pentru afaceri în creștere gata să-și scaleze infrastructura de date",
+          "price": "€2,499 - €7,999",
+          "features": {
+            "0": "Pipeline-uri ETL",
+            "1": "Data warehouses",
+            "2": "Dashboard-uri comprehensive",
+            "3": "Integrări multi-sursă",
+            "4": "Suport prioritar"
+          }
+        },
+        "enterprise": {
+          "title": "Soluții Enterprise",
+          "description": "Transformare completă de date pentru organizații mari",
+          "price": "De la €7,999",
+          "features": {
+            "0": "Arhitecturi complexe",
+            "1": "Analiză avansată & ML",
+            "2": "Transformare BI completă",
+            "3": "Suport dedicat",
+            "4": "Soluții personalizate"
+          }
+        }
+      },
+      "note": "Notă: Toate prețurile sunt în EUR și exclud TVA. Prețul final depinde de cerințele proiectului, volumul de date, complexitatea integrării și nivelul de suport. Oferim și pachete de retainer lunar pentru suport și întreținere continuă.",
+      "cta": "Obține Ofertă Personalizată"
+    },
+    "about": {
+      "title": "Despre Enovis Analytics",
+      "intro": "Suntem o consultanță specializată în business intelligence și analiză de date dedicată ajutării afacerilor să-și transforme datele în insight-uri acționabile și avantaje strategice.",
+      "experience": {
+        "title": "Experiența și Expertiza Noastră",
+        "description": "Cu experiență extinsă în multiple domenii ale tehnologiei și managementului datelor, aducem un set complet de competențe în fiecare proiect. Expertiza noastră acoperă:"
+      },
+      "expertise": {
+        "web": {
+          "title": "Tehnologii Web",
+          "description": "Dezvoltare web modernă folosind framework-uri și tehnologii de ultimă generație pentru a construi aplicații scalabile, responsive și platforme de vizualizare date."
+        },
+        "dataAnalysis": {
+          "title": "Analiză Date",
+          "description": "Analiză statistică avansată, data mining și recunoaștere pattern-uri pentru a descoperi insight-uri ascunse și a răspunde la întrebări complexe de business."
+        },
+        "database": {
+          "title": "Administrare Baze de Date",
+          "description": "Management expert al bazelor de date SQL și NoSQL, optimizare, tuning performanță și asigurarea integrității datelor în sisteme enterprise."
+        },
+        "cloud": {
+          "title": "Dezvoltare Cloud",
+          "description": "Construire soluții scalabile, cloud-native pe AWS, Azure și GCP, inclusiv arhitecturi serverless și data warehouses cloud."
+        },
+        "erp": {
+          "title": "Dezvoltare ERP",
+          "description": "Soluții și integrări ERP personalizate care optimizează procesele de business, îmbunătățesc eficiența și oferă management unificat al datelor."
+        },
+        "bi": {
+          "title": "BI & Business Intelligence",
+          "description": "Soluții BI end-to-end de la data warehousing la dashboard-uri interactive, ajutând organizațiile să ia decizii bazate pe date."
+        }
+      },
+      "approach": {
+        "title": "Abordarea Noastră",
+        "description": "Credem în înțelegerea afacerii tale mai întâi. Fiecare soluție pe care o livrăm este adaptată nevoilor, industriei și obiectivelor tale specifice. Abordarea noastră colaborativă asigură că lucrăm strâns cu echipa ta pentru a livra soluții care nu doar îndeplinesc cerințele tehnice, ci și generează valoare reală de business.",
+        "description2": "De la startup-uri care doresc să-și stabilească prima infrastructură de date la întreprinderi stabilite care caută să-și modernizeze capabilitățile de analiză, avem experiența și expertiza pentru a te ghida în călătoria ta cu datele."
+      },
+      "cta": {
+        "title": "Gata să-ți Transformi Datele?",
+        "description": "Hai să discutăm despre cum te putem ajuta să valorifici datele pentru o luare mai bună a deciziilor și un avantaj competitiv.",
+        "button": "Intră în Legătură"
+      }
     }
   }
 }

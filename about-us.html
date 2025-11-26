@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About Enovis Analytics - Expert Business Intelligence consultants in Romania. Specialized in Software Development, Data Analysis, Database Administration, Cloud Development, ERP and BI Development. Serving SMEs, startups, and enterprises.">
+    <meta name="keywords" content="about Enovis Analytics, BI consultants Romania, data analytics experts, business intelligence team, data science professionals Romania, BI development services">
+    <meta name="author" content="Enovis Analytics" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="geo.region" content="RO" />
+    <meta name="geo.placename" content="Romania" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://analytics.enovis.ro/about-us.html" />
+    <meta property="og:title" content="About Us | Enovis Analytics - BI Experts Romania" />
+    <meta property="og:description" content="Learn about Enovis Analytics - Expert Business Intelligence consultants specializing in data analysis, cloud development, ERP and BI solutions in Romania." />
+    <meta property="og:image" content="https://analytics.enovis.ro/favicon.svg" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale:alternate" content="ro_RO" />
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://analytics.enovis.ro/about-us.html" />
+    <meta name="twitter:title" content="About Us | Enovis Analytics" />
+    <meta name="twitter:description" content="Expert Business Intelligence consultants in Romania specializing in data analytics, cloud development, and BI solutions." />
+    <meta name="twitter:image" content="https://analytics.enovis.ro/favicon.svg" />
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://analytics.enovis.ro/about-us.html" />
+    
+    <!-- Language alternatives -->
+    <link rel="alternate" hreflang="en" href="https://analytics.enovis.ro/about-us.html" />
+    <link rel="alternate" hreflang="ro" href="https://analytics.enovis.ro/about-us.html" />
+    <link rel="alternate" hreflang="x-default" href="https://analytics.enovis.ro/about-us.html" />
+    
+    <title>About Us | Enovis Analytics - Business Intelligence Experts Romania</title>
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JMFS3M0C2L"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-JMFS3M0C2L');
+    </script>
+    
+    <style>
+        .about-page {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: calc(80px + var(--spacing-lg)) var(--spacing-md) var(--spacing-xl) var(--spacing-md);
+        }
+        
+        .about-hero {
+            text-align: center;
+            margin-bottom: var(--spacing-xl);
+            padding-bottom: var(--spacing-xl);
+            border-bottom: 2px solid var(--light-gray);
+        }
+        
+        .about-page h1 {
+            font-size: 3rem;
+            margin-bottom: var(--spacing-md);
+            color: var(--near-black);
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            background: var(--gradient-blue);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .about-page .intro {
+            font-size: 1.375rem;
+            color: var(--dark-gray);
+            text-align: center;
+            margin-bottom: 0;
+            line-height: 1.8;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .about-page h2 {
+            font-size: 2.25rem;
+            margin-top: var(--spacing-xl);
+            margin-bottom: var(--spacing-md);
+            color: var(--near-black);
+            font-weight: 700;
+            letter-spacing: -0.01em;
+            position: relative;
+            padding-bottom: var(--spacing-sm);
+        }
+        
+        .about-page h2::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 60px;
+            height: 4px;
+            background: var(--gradient-blue);
+            border-radius: 2px;
+        }
+        
+        .about-page h3 {
+            font-size: 1.75rem;
+            margin-top: 0;
+            margin-bottom: var(--spacing-md);
+            color: var(--primary-blue);
+            font-weight: 600;
+        }
+        
+        .about-page p {
+            line-height: 1.8;
+            color: var(--dark-gray);
+            margin-bottom: var(--spacing-md);
+            font-size: 1.0625rem;
+        }
+        
+        .expertise-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: var(--spacing-md);
+            margin-top: var(--spacing-lg);
+        }
+        
+        .expertise-card {
+            padding: var(--spacing-lg);
+            background: var(--white);
+            border: 2px solid var(--light-gray);
+            border-radius: var(--radius-lg);
+            transition: var(--transition-base);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .expertise-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: var(--gradient-blue);
+            transform: scaleX(0);
+            transition: var(--transition-base);
+        }
+        
+        .expertise-card:hover::before {
+            transform: scaleX(1);
+        }
+        
+        .expertise-card:hover {
+            transform: translateY(-6px);
+            box-shadow: var(--shadow-xl);
+            border-color: var(--primary-blue);
+        }
+        
+        .expertise-icon {
+            width: 64px;
+            height: 64px;
+            background: var(--ultra-light-blue);
+            border-radius: var(--radius-md);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: var(--spacing-md);
+            transition: var(--transition-base);
+        }
+        
+        .expertise-card:hover .expertise-icon {
+            background: var(--gradient-blue);
+            transform: scale(1.1);
+        }
+        
+        .expertise-icon svg {
+            width: 32px;
+            height: 32px;
+            stroke: var(--primary-blue);
+            transition: var(--transition-base);
+        }
+        
+        .expertise-card:hover .expertise-icon svg {
+            stroke: var(--white);
+        }
+        
+        .expertise-card h4 {
+            font-size: 1.375rem;
+            font-weight: 600;
+            color: var(--near-black);
+            margin-bottom: var(--spacing-sm);
+        }
+        
+        .expertise-card p {
+            font-size: 1rem;
+            color: var(--gray);
+            margin-bottom: 0;
+            line-height: 1.7;
+        }
+        
+        .experience-section {
+            background: var(--gradient-subtle);
+            padding: var(--spacing-xl);
+            border-radius: var(--radius-xl);
+            margin-top: var(--spacing-xl);
+            border: 1px solid var(--light-blue);
+            box-shadow: var(--shadow-md);
+        }
+        
+        .experience-section h3 {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+        }
+        
+        .experience-section h3::before {
+            content: '';
+            width: 4px;
+            height: 32px;
+            background: var(--gradient-blue);
+            border-radius: 2px;
+        }
+        
+        .cta-section {
+            text-align: center;
+            margin-top: var(--spacing-xl);
+            padding: var(--spacing-xl);
+            background: linear-gradient(135deg, var(--primary-blue) 0%, var(--secondary-blue) 100%);
+            border-radius: var(--radius-xl);
+            color: var(--white);
+            box-shadow: var(--shadow-xl);
+        }
+        
+        .cta-section h2 {
+            margin-top: 0;
+            color: var(--white);
+            font-size: 2rem;
+        }
+        
+        .cta-section p {
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 1.125rem;
+            margin-bottom: var(--spacing-md);
+        }
+        
+        .cta-section .cta-button {
+            background: var(--white);
+            color: var(--primary-blue);
+            box-shadow: var(--shadow-lg);
+        }
+        
+        .cta-section .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-xl);
+        }
+        
+        @media (max-width: 768px) {
+            .about-page h1 {
+                font-size: 2.25rem;
+            }
+            
+            .about-page .intro {
+                font-size: 1.125rem;
+            }
+            
+            .about-page h2 {
+                font-size: 1.875rem;
+            }
+            
+            .about-page h3 {
+                font-size: 1.5rem;
+            }
+            
+            .expertise-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .expertise-card {
+                padding: var(--spacing-md);
+            }
+            
+            .experience-section {
+                padding: var(--spacing-md);
+            }
+            
+            .cta-section {
+                padding: var(--spacing-lg);
+            }
+            
+            .cta-section h2 {
+                font-size: 1.75rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .about-page {
+                padding: calc(80px + var(--spacing-md)) var(--spacing-sm) var(--spacing-lg) var(--spacing-sm);
+            }
+            
+            .about-page h1 {
+                font-size: 1.875rem;
+            }
+            
+            .about-page .intro {
+                font-size: 1rem;
+            }
+            
+            .expertise-icon {
+                width: 56px;
+                height: 56px;
+            }
+            
+            .expertise-icon svg {
+                width: 28px;
+                height: 28px;
+            }
+            
+            .expertise-card h4 {
+                font-size: 1.25rem;
+            }
+            
+            .cta-section {
+                padding: var(--spacing-md);
+            }
+        }
+        
+        .nav-link {
+            padding: 8px 20px;
+            color: var(--gray);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9375rem;
+            transition: var(--transition-fast);
+            border-radius: var(--radius-sm);
+        }
+        
+        .nav-link:hover {
+            color: var(--primary-blue);
+            background: var(--ultra-light-blue);
+        }
+        
+        .nav-link-active {
+            color: var(--primary-blue);
+            background: var(--ultra-light-blue);
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" role="navigation" aria-label="Main navigation">
+      <div class="container">
+        <div class="nav-content">
+          <a href="index.html" class="logo" style="text-decoration: none;" aria-label="Enovis Analytics Home">Enovis Analytics</a>
+          <div class="nav-right">
+            <a href="index.html" class="nav-link" aria-label="Home page">Home</a>
+            <a href="about-us.html" class="nav-link nav-link-active" aria-label="About us page" aria-current="page">About</a>
+            <a href="https://metabase-production-42ef.up.railway.app/public/dashboard/3f857921-11e7-4cb2-b2db-9e3864811350" target="_blank" rel="noopener noreferrer" class="demo-link">Demo</a>
+            <div class="language-switcher">
+              <button class="lang-btn active" data-lang="en">EN</button>
+              <button class="lang-btn" data-lang="ro">RO</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <main class="about-page" itemscope itemtype="https://schema.org/AboutPage">
+        <div class="about-hero">
+            <h1 data-i18n="about.title" itemprop="name">About Enovis Analytics</h1>
+            <p class="intro" data-i18n="about.intro">
+                We are a specialized business intelligence and data analytics consultancy dedicated to helping businesses transform their data into actionable insights and strategic advantages.
+            </p>
+        </div>
+
+        <h2 data-i18n="about.experience.title">Our Experience & Expertise</h2>
+        <p data-i18n="about.experience.description">
+            With extensive experience across multiple domains of technology and data management, we bring a comprehensive skill set to every project. Our expertise spans:
+        </p>
+
+        <div class="expertise-grid">
+            <div class="expertise-card">
+                <div class="expertise-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h4 data-i18n="about.expertise.web.title">Web Technologies</h4>
+                <p data-i18n="about.expertise.web.description">
+                    Modern web development using cutting-edge frameworks and technologies to build scalable, responsive applications and data visualization platforms.
+                </p>
+            </div>
+            <div class="expertise-card">
+                <div class="expertise-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="20" x2="18" y2="10"></line>
+                        <line x1="12" y1="20" x2="12" y2="4"></line>
+                        <line x1="6" y1="20" x2="6" y2="14"></line>
+                    </svg>
+                </div>
+                <h4 data-i18n="about.expertise.dataAnalysis.title">Data Analysis</h4>
+                <p data-i18n="about.expertise.dataAnalysis.description">
+                    Advanced statistical analysis, data mining, and pattern recognition to uncover hidden insights and answer complex business questions.
+                </p>
+            </div>
+            <div class="expertise-card">
+                <div class="expertise-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <ellipse cx="12" cy="5" rx="9" ry="3"></ellipse>
+                        <path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path>
+                        <path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path>
+                    </svg>
+                </div>
+                <h4 data-i18n="about.expertise.database.title">Database Administration</h4>
+                <p data-i18n="about.expertise.database.description">
+                    Expert management of SQL and NoSQL databases, optimization, performance tuning, and ensuring data integrity across enterprise systems.
+                </p>
+            </div>
+            <div class="expertise-card">
+                <div class="expertise-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M17.5 19H9a7 7 0 0 1-5-11.5A7 7 0 0 1 15 2h.5a7 7 0 0 1 7 7v10a7 7 0 0 1-5 0"></path>
+                    </svg>
+                </div>
+                <h4 data-i18n="about.expertise.cloud.title">Cloud Development</h4>
+                <p data-i18n="about.expertise.cloud.description">
+                    Building scalable, cloud-native solutions on AWS, Azure, and GCP, including serverless architectures and cloud data warehouses.
+                </p>
+            </div>
+            <div class="expertise-card">
+                <div class="expertise-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                        <line x1="9" y1="3" x2="9" y2="21"></line>
+                        <line x1="3" y1="9" x2="21" y2="9"></line>
+                    </svg>
+                </div>
+                <h4 data-i18n="about.expertise.erp.title">ERP Development</h4>
+                <p data-i18n="about.expertise.erp.description">
+                    Custom ERP solutions and integrations that streamline business processes, improve efficiency, and provide unified data management.
+                </p>
+            </div>
+            <div class="expertise-card">
+                <div class="expertise-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                        <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                    </svg>
+                </div>
+                <h4 data-i18n="about.expertise.bi.title">BI & Business Intelligence</h4>
+                <p data-i18n="about.expertise.bi.description">
+                    End-to-end BI solutions from data warehousing to interactive dashboards, helping organizations make data-driven decisions.
+                </p>
+            </div>
+        </div>
+
+        <div class="experience-section">
+            <h3 data-i18n="about.approach.title">Our Approach</h3>
+            <p data-i18n="about.approach.description">
+                We believe in understanding your business first. Every solution we deliver is tailored to your specific needs, industry, and goals. Our collaborative approach ensures that we work closely with your team to deliver solutions that not only meet technical requirements but also drive real business value.
+            </p>
+            <p data-i18n="about.approach.description2">
+                From startups looking to establish their first data infrastructure to established enterprises seeking to modernize their analytics capabilities, we have the experience and expertise to guide you through your data journey.
+            </p>
+        </div>
+
+        <div class="cta-section">
+            <h2 data-i18n="about.cta.title">Ready to Transform Your Data?</h2>
+            <p data-i18n="about.cta.description">
+                Let's discuss how we can help your business leverage data for better decision-making and competitive advantage.
+            </p>
+            <a href="index.html#contact" class="cta-button" data-i18n="about.cta.button">Get In Touch</a>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-main">
+            <div class="footer-logo">Enovis Analytics</div>
+            <p data-i18n="footer.copyright">
+              © 2025 Enovis Software S.R.L. All rights reserved.
+            </p>
+          </div>
+          <div class="footer-links">
+            <a href="privacy-policy.html" data-i18n="footer.privacy"
+              >Privacy Policy</a
+            >
+            <a href="terms-of-service.html" data-i18n="footer.terms"
+              >Terms of Service</a
+            >
+            <a href="cookie-policy.html" data-i18n="footer.cookies"
+              >Cookie Policy</a
+            >
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Structured Data (JSON-LD) for SEO -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "AboutPage",
+        "name": "About Enovis Analytics",
+        "description": "Learn about Enovis Analytics - Expert Business Intelligence consultants specializing in data analysis, cloud development, ERP and BI solutions in Romania.",
+        "url": "https://analytics.enovis.ro/about-us.html",
+        "mainEntity": {
+          "@type": "Organization",
+          "name": "Enovis Analytics",
+          "legalName": "Enovis Software S.R.L.",
+          "description": "Professional Business Intelligence and Data Analysis Services. Expert in Software Development, Data Analysis, Database Administration, Cloud Development, ERP and BI Development.",
+          "url": "https://analytics.enovis.ro",
+          "logo": "https://analytics.enovis.ro/favicon.svg",
+          "email": "office@enovis.ro",
+          "telephone": "+40734950060",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RO"
+          },
+          "knowsAbout": [
+            "Business Intelligence",
+            "Data Analysis",
+            "Database Administration",
+            "Cloud Development",
+            "ERP Development",
+            "Web Technologies",
+            "Data Visualization",
+            "ETL Pipelines",
+            "Data Warehousing"
+          ],
+          "areaServed": {
+            "@type": "Country",
+            "name": "Romania"
+          }
+        }
+      }
+    </script>
+    
+    <!-- Breadcrumb Schema -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://analytics.enovis.ro/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "About Us",
+            "item": "https://analytics.enovis.ro/about-us.html"
+          }
+        ]
+      }
+    </script>
+    
+    <script src="script.js"></script>
+</body>
+</html>
+

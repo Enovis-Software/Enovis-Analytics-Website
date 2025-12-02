@@ -1,146 +1,146 @@
 {
   "en": {
     "hero": {
-      "title": "Transform Your Data Into Action",
-      "subtitle": "Professional business intelligence and data analysis services to help your business make informed decisions",
+      "title": "Turn Your Numbers Into Growth",
+      "subtitle": "See exactly what's working in your business—and what's not. Get clear insights that help you make smarter decisions and grow faster.",
       "cta": "Get Started"
     },
     "services": {
-      "title": "Our Services",
-      "subtitle": "Comprehensive data solutions tailored to your business needs",
+      "title": "What You'll Get",
+      "subtitle": "Everything you need to understand your business better and make decisions that drive growth",
       "learnMore": "Learn More →",
       "dataStreams": {
-        "title": "Data Streams & Sources",
-        "description": "Connect and integrate multiple data sources into a unified system for seamless data flow"
+        "title": "All Your Data in One Place",
+        "description": "Stop jumping between spreadsheets and systems. See everything you need in one dashboard, updated automatically."
       },
       "centralization": {
-        "title": "Data Centralization & Transformation",
-        "description": "Centralize disparate data sources and transform them into structured, actionable formats"
+        "title": "Clean, Organized Information",
+        "description": "Transform messy, scattered data into clear reports that actually make sense and help you take action."
       },
       "etl": {
-        "title": "ETL Pipelines",
-        "description": "Build robust Extract, Transform, Load pipelines for automated data processing"
+        "title": "Automated Reports",
+        "description": "No more manual work. Your reports update themselves daily, weekly, or monthly—exactly when you need them."
       },
       "dashboards": {
-        "title": "Interactive Dashboards",
-        "description": "Create beautiful, interactive dashboards that visualize your business metrics in real-time"
+        "title": "Live Business Dashboards",
+        "description": "See your sales, customers, and key metrics at a glance. Beautiful charts that update in real-time so you always know where you stand."
       },
       "insights": {
-        "title": "Data Insights & Analytics",
-        "description": "Extract meaningful insights and answer critical business questions using advanced analytics"
+        "title": "Answers to Your Questions",
+        "description": "Find out why sales dropped, which customers are most valuable, or what's driving your costs. Get clear answers, not just numbers."
       },
       "forecasting": {
-        "title": "Forecasting & Predictions",
-        "description": "Leverage machine learning models to forecast trends and make data-driven predictions"
+        "title": "See the Future",
+        "description": "Know what's coming next. Predict sales, spot trends before competitors, and plan ahead with confidence."
       }
     },
     "serviceDetails": {
       "dataStreams": {
-        "title": "Data Streams & Sources",
-        "detailedDescription": "We help you connect and integrate data from multiple sources into a unified, reliable system. Whether it's databases, APIs, cloud services, or IoT devices, we ensure your data flows seamlessly across your organization.",
+        "title": "All Your Data in One Place",
+        "detailedDescription": "Stop wasting time jumping between spreadsheets, apps, and systems. We connect everything—your sales software, accounting tools, website analytics, customer database, and more—into one dashboard that updates automatically. You'll see your entire business at a glance, without the manual work.",
         "features": [
-          "Real-time data streaming and ingestion",
-          "Support for multiple data sources (SQL, NoSQL, APIs, files)",
-          "Automated data validation and quality checks",
-          "Scalable architecture for growing data volumes",
-          "Integration with cloud platforms (AWS, Azure, GCP)"
+          "Real-time updates from all your systems",
+          "Works with any tool you use (databases, apps, files, cloud services)",
+          "Automatic checks to ensure data accuracy",
+          "Grows with your business automatically",
+          "Works with all major cloud platforms"
         ],
         "benefits": [
-          "Eliminate data silos across departments",
-          "Access all your data in one place",
-          "Reduce manual data collection time by 80%",
-          "Ensure data consistency and reliability",
-          "Scale effortlessly as your business grows"
+          "No more switching between 5+ different tools",
+          "See everything you need in one screen",
+          "Save 10+ hours per week on manual data work",
+          "Always have accurate, up-to-date information",
+          "Add new tools easily as you grow"
         ]
       },
       "centralization": {
-        "title": "Data Centralization & Transformation",
-        "detailedDescription": "Transform scattered data from various sources into a centralized, clean, and structured format. We create data warehouses and lakes that become the single source of truth for your organization.",
+        "title": "Clean, Organized Information",
+        "detailedDescription": "Your data is probably messy—different formats, missing information, duplicates. We clean it all up and organize it so it makes sense. You'll get clear, consistent reports that actually help you make decisions, instead of confusing spreadsheets that raise more questions than answers.",
         "features": [
-          "Data warehouse design and implementation",
-          "Data lake architecture for unstructured data",
-          "Data cleaning and standardization",
-          "Schema design and optimization",
-          "Historical data preservation and versioning"
+          "Organize all your data in one central place",
+          "Handle any type of data—structured or not",
+          "Clean up errors, duplicates, and missing info",
+          "Optimize for fast, accurate reporting",
+          "Keep historical data safe and accessible"
         ],
         "benefits": [
-          "Single source of truth for all business data",
-          "Faster query performance and reporting",
-          "Improved data accuracy and consistency",
-          "Better compliance and data governance",
-          "Reduced storage costs through optimization"
+          "One reliable source for all your business numbers",
+          "Reports load instantly, no more waiting",
+          "Trust your numbers—they're always accurate",
+          "Stay compliant without extra work",
+          "Save money on storage and processing"
         ]
       },
       "etl": {
-        "title": "ETL Pipelines",
-        "detailedDescription": "Build robust, automated ETL (Extract, Transform, Load) pipelines that handle your data processing needs efficiently. Our pipelines are designed for reliability, scalability, and ease of maintenance.",
+        "title": "Automated Reports",
+        "detailedDescription": "Tired of spending hours every week creating the same reports? We set up automated systems that pull your data, organize it, and create your reports automatically—daily, weekly, or monthly. Set it once, and it runs forever. You'll get your reports on time, every time, without lifting a finger.",
         "features": [
-          "Automated data extraction from various sources",
-          "Complex data transformations and enrichment",
-          "Incremental and full load strategies",
-          "Error handling and data recovery",
-          "Monitoring and alerting systems"
+          "Automatically pulls data from all your systems",
+          "Transforms and organizes data automatically",
+          "Updates only what changed (faster) or refreshes everything",
+          "Handles errors automatically and recovers if something breaks",
+          "Alerts you immediately if something goes wrong"
         ],
         "benefits": [
-          "Eliminate manual data processing tasks",
-          "Ensure data freshness and timeliness",
-          "Reduce errors and improve data quality",
-          "Save hundreds of hours monthly",
-          "Get instant notifications on pipeline issues"
+          "Never create manual reports again",
+          "Always have the latest numbers",
+          "Fewer mistakes, better quality",
+          "Save 20+ hours every month",
+          "Know immediately if something breaks"
         ]
       },
       "dashboards": {
-        "title": "Interactive Dashboards",
-        "detailedDescription": "Create stunning, interactive dashboards that bring your data to life. We design intuitive visualizations that help you monitor KPIs, track performance, and make quick decisions based on real-time data.",
+        "title": "Live Business Dashboards",
+        "detailedDescription": "See your entire business on one screen. Beautiful charts and graphs that show your sales, customers, costs, and key metrics—all updating in real-time. Click to drill deeper, filter by date or product, and share with your team. No more guessing. No more waiting for reports. Just clear, visual insights whenever you need them.",
         "features": [
-          "Custom dashboard design tailored to your needs",
-          "Real-time data visualization",
-          "Interactive filters and drill-down capabilities",
-          "Mobile-responsive layouts",
-          "Integration with popular BI tools (Tableau, Power BI, Looker)"
+          "Designed specifically for what you need to see",
+          "Updates automatically as new data comes in",
+          "Click to explore deeper or filter by any criteria",
+          "Works perfectly on your phone or tablet",
+          "Compatible with all major business intelligence tools"
         ],
         "benefits": [
-          "Monitor business performance at a glance",
-          "Make faster, data-driven decisions",
-          "Share insights across teams easily",
-          "Identify trends and anomalies instantly",
-          "Increase team productivity and alignment"
+          "Know exactly how your business is performing right now",
+          "Make decisions in minutes, not days",
+          "Share insights with your team instantly",
+          "Spot problems and opportunities immediately",
+          "Get everyone on the same page with the same numbers"
         ]
       },
       "insights": {
-        "title": "Data Insights & Analytics",
-        "detailedDescription": "Go beyond basic reporting with advanced analytics that uncover hidden patterns, answer complex questions, and provide actionable insights. Our data scientists help you understand what your data is really telling you.",
+        "title": "Answers to Your Questions",
+        "detailedDescription": "Why did sales drop last month? Which customers are most valuable? What's driving your costs? We dig deep into your data to find real answers—not just numbers, but insights you can act on. You'll understand your business in ways you never could before.",
         "features": [
-          "Advanced statistical analysis",
-          "Customer segmentation and behavior analysis",
-          "A/B testing and experimentation",
-          "Root cause analysis",
-          "Custom analytical models"
+          "Deep analysis to find hidden patterns",
+          "Group customers by behavior and value",
+          "Test different strategies to see what works",
+          "Find the real cause of problems",
+          "Build custom analysis for your specific questions"
         ],
         "benefits": [
-          "Discover opportunities for growth",
-          "Understand customer behavior deeply",
-          "Optimize operations and reduce costs",
-          "Answer critical business questions",
-          "Gain competitive advantage through data"
+          "Find new ways to grow your revenue",
+          "Understand exactly how customers behave",
+          "Cut costs without cutting quality",
+          "Get clear answers to your biggest questions",
+          "Stay ahead of competitors with better insights"
         ]
       },
       "forecasting": {
-        "title": "Forecasting & Predictions",
-        "detailedDescription": "Leverage machine learning and statistical models to predict future trends, forecast demand, and anticipate market changes. Make proactive decisions based on data-driven predictions rather than gut feelings.",
+        "title": "See the Future",
+        "detailedDescription": "Stop guessing what's coming next. Our predictive models show you future sales, customer behavior, and market trends based on your actual data. Plan inventory, prevent customer churn, optimize pricing, and spot problems before they happen. Make decisions today based on what will happen tomorrow.",
         "features": [
-          "Time series forecasting",
-          "Demand prediction models",
-          "Churn prediction and prevention",
-          "Price optimization algorithms",
-          "Anomaly detection systems"
+          "Predict future sales and trends",
+          "Forecast demand for products or services",
+          "Identify customers likely to leave",
+          "Find the best prices automatically",
+          "Detect unusual patterns before they become problems"
         ],
         "benefits": [
-          "Anticipate market trends before competitors",
-          "Optimize inventory and reduce waste",
-          "Predict and prevent customer churn",
-          "Improve financial planning accuracy",
-          "Make proactive business decisions"
+          "See opportunities before competitors do",
+          "Order the right amount, reduce waste",
+          "Keep customers before they leave",
+          "Plan budgets with confidence",
+          "Fix problems before they cost you money"
         ]
       }
     },
@@ -152,28 +152,28 @@
     "whyUs": {
       "title": "Why Choose Us",
       "benefit1": {
-        "title": "Expert Team",
-        "description": "Experienced data scientists and engineers dedicated to your success"
+        "title": "We Speak Your Language",
+        "description": "No tech jargon. We explain everything in plain terms and focus on what matters: your business results."
       },
       "benefit2": {
-        "title": "Custom Solutions",
-        "description": "Tailored approaches that fit your unique business requirements"
+        "title": "Built for Your Business",
+        "description": "Every solution is customized to your specific needs. You get exactly what you need, nothing you don't."
       },
       "benefit3": {
-        "title": "Proven Results",
-        "description": "Track record of delivering measurable business value"
+        "title": "Real Results You Can See",
+        "description": "Our clients save hours every week, make better decisions, and grow faster. You'll see the difference immediately."
       }
     },
     "assessment": {
-      "title": "Free BI Maturity Assessment",
-      "intro": "Discover where your business stands in terms of data maturity and digital transformation",
+      "title": "Free Business Health Check",
+      "intro": "See how well you're using your business data—and where you're missing opportunities",
       "feature1": {
         "title": "Quick & Easy",
         "description": "Takes only 10-15 minutes to complete"
       },
       "feature2": {
         "title": "Personalized Report",
-        "description": "Receive a free BI maturity evaluation report"
+        "description": "Get a free report showing exactly where you can improve"
       },
       "feature3": {
         "title": "100% Confidential",
@@ -181,13 +181,13 @@
       },
       "cta": "Start Your Free Assessment",
       "card": {
-        "title": "Evaluate Your Data Maturity",
-        "description": "Understand your current capabilities and identify growth opportunities"
+        "title": "See Where You Stand",
+        "description": "Understand what you're doing well and discover opportunities to grow faster"
       }
     },
     "contact": {
       "title": "Get In Touch",
-      "subtitle": "Ready to transform your data? Let's talk about your project",
+      "subtitle": "Ready to see your business more clearly? Let's talk about what you want to achieve",
       "emailLabel": "Email",
       "phoneLabel": "Phone",
       "loading": "Loading...",
@@ -209,33 +209,33 @@
       "title": "Who We Serve",
       "subtitle": "We work with businesses of all sizes, from startups to enterprises, across various industries",
       "sme": {
-        "title": "Small & Medium Enterprises (SMEs)",
-        "description": "Companies with 10-250 employees looking to establish their first data infrastructure, automate reporting, and gain insights from their business data without the complexity of enterprise solutions.",
+        "title": "Growing Businesses",
+        "description": "You're past the startup phase and need to understand what's really happening in your business. Stop guessing and start knowing—with clear reports that show you exactly where to focus.",
         "needs": {
-          "0": "Affordable BI solutions",
-          "1": "Quick implementation",
-          "2": "Easy-to-use dashboards",
-          "3": "Data integration from multiple sources"
+          "0": "Solutions that fit your budget",
+          "1": "Set up in weeks, not months",
+          "2": "Dashboards anyone can understand",
+          "3": "All your tools connected automatically"
         }
       },
       "startups": {
         "title": "Startups & Scale-ups",
-        "description": "Fast-growing companies (5-50 employees) that need scalable data solutions from day one, investor-ready reporting, and data-driven decision-making capabilities to fuel their growth.",
+        "description": "You're growing fast and need to track what matters. Impress investors with professional reports, understand your customers better, and make decisions that fuel your growth.",
         "needs": {
-          "0": "Scalable architecture",
-          "1": "Investor reporting dashboards",
-          "2": "Product analytics",
-          "3": "Customer behavior insights"
+          "0": "Grows with your business",
+          "1": "Investor-ready reports",
+          "2": "See what customers really do",
+          "3": "Know which features drive growth"
         }
       },
       "corporations": {
-        "title": "Corporations & Large Enterprises",
-        "description": "Established organizations (250+ employees) seeking to modernize legacy systems, consolidate data silos, implement advanced analytics, and improve data governance across departments.",
+        "title": "Established Companies",
+        "description": "You have data everywhere but can't see the big picture. We help you connect everything, eliminate confusion, and give every department the insights they need to perform better.",
         "needs": {
-          "0": "Enterprise data warehouses",
-          "1": "Advanced analytics & ML",
-          "2": "Data governance & compliance",
-          "3": "Multi-department integration"
+          "0": "Connect all your systems",
+          "1": "Predict trends and opportunities",
+          "2": "Stay compliant automatically",
+          "3": "One source of truth for everyone"
         }
       },
       "industries": {
@@ -252,273 +252,273 @@
     },
     "pricing": {
       "title": "Pricing & Investment",
-      "subtitle": "Transparent pricing tailored to your needs. Every project is custom-quoted based on scope and complexity.",
+      "subtitle": "Transparent pricing tailored to your needs. Every project is custom-quoted based on what you want to achieve.",
       "approach": {
         "title": "Our Pricing Approach",
-        "description": "We believe in fair, transparent pricing. Each project is unique, so we provide custom quotes after understanding your specific requirements. Our pricing is based on project scope, complexity, timeline, and ongoing support needs."
+        "description": "We believe in fair, transparent pricing. Each business is unique, so we provide custom quotes after understanding your goals. Our pricing is based on what you need to see, how many systems we connect, and how much support you want."
       },
       "ranges": {
         "title": "Investment Ranges",
         "starter": {
-          "title": "Starter Projects",
-          "description": "Perfect for small businesses getting started with data analytics",
+          "title": "Getting Started",
+          "description": "Perfect for businesses ready to see their numbers clearly for the first time",
           "price": "From €999",
           "features": {
-            "0": "Basic dashboards",
-            "1": "Simple data integrations",
-            "2": "Initial BI setup",
+            "0": "Essential dashboards",
+            "1": "Connect 2-3 key systems",
+            "2": "Set up automated reports",
             "3": "Email support"
           }
         },
         "standard": {
-          "title": "Standard Projects",
+          "title": "Growing Business",
           "popular": "Most Popular",
-          "description": "Ideal for growing businesses ready to scale their data infrastructure",
+          "description": "Ideal for businesses ready to automate everything and get deeper insights",
           "price": "€2,499 - €7,999",
           "features": {
-            "0": "ETL pipelines",
-            "1": "Data warehouses",
-            "2": "Comprehensive dashboards",
-            "3": "Multi-source integrations",
+            "0": "Automated daily reports",
+            "1": "All data in one place",
+            "2": "Complete business dashboards",
+            "3": "Connect all your tools",
             "4": "Priority support"
           }
         },
         "enterprise": {
-          "title": "Enterprise Solutions",
-          "description": "Complete data transformation for large organizations",
+          "title": "Complete Transformation",
+          "description": "Full solution for companies that want to see everything and predict what's next",
           "price": "From €7,999",
           "features": {
-            "0": "Complex architectures",
-            "1": "Advanced analytics & ML",
-            "2": "Full-scale BI transformation",
-            "3": "Dedicated support",
-            "4": "Custom solutions"
+            "0": "Everything connected",
+            "1": "Predict future trends",
+            "2": "Complete business intelligence",
+            "3": "Dedicated support team",
+            "4": "Custom-built for you"
           }
         }
       },
-      "note": "Note: All prices are in EUR and exclude VAT. Final pricing depends on project requirements, data volume, integration complexity, and support level. We also offer monthly retainer packages for ongoing support and maintenance.",
+      "note": "Note: All prices are in EUR and exclude VAT. Final pricing depends on what you want to track, how many systems we connect, and how much support you need. We also offer monthly packages for ongoing updates and support.",
       "cta": "Get a Custom Quote"
     },
     "about": {
       "title": "About Enovis Analytics",
-      "intro": "We are a specialized business intelligence and data analytics consultancy dedicated to helping businesses transform their data into actionable insights and strategic advantages.",
+      "intro": "We help entrepreneurs and business owners see their business clearly. No technical jargon. No confusing reports. Just clear insights that help you make better decisions and grow faster.",
       "experience": {
-        "title": "Our Experience & Expertise",
-        "description": "With extensive experience across multiple domains of technology and data management, we bring a comprehensive skill set to every project. Our expertise spans:"
+        "title": "What We Do",
+        "description": "We specialize in making your business data work for you. Here's what we're experts at:"
       },
       "expertise": {
         "web": {
-          "title": "Web Technologies",
-          "description": "Modern web development using cutting-edge frameworks and technologies to build scalable, responsive applications and data visualization platforms."
+          "title": "Building Dashboards You'll Actually Use",
+          "description": "We create beautiful, easy-to-understand dashboards that show you exactly what you need to see—on your computer, tablet, or phone."
         },
         "dataAnalysis": {
-          "title": "Data Analysis",
-          "description": "Advanced statistical analysis, data mining, and pattern recognition to uncover hidden insights and answer complex business questions."
+          "title": "Finding Answers in Your Data",
+          "description": "We dig deep to find the insights that matter: why sales changed, which customers are most valuable, what's driving costs, and more."
         },
         "database": {
-          "title": "Database Administration",
-          "description": "Expert management of SQL and NoSQL databases, optimization, performance tuning, and ensuring data integrity across enterprise systems."
+          "title": "Organizing Your Data Properly",
+          "description": "We set up systems that keep your data accurate, fast, and reliable—so you can trust the numbers you're making decisions on."
         },
         "cloud": {
-          "title": "Cloud Development",
-          "description": "Building scalable, cloud-native solutions on AWS, Azure, and GCP, including serverless architectures and cloud data warehouses."
+          "title": "Cloud-Based Solutions",
+          "description": "We build solutions that live in the cloud, so you can access everything from anywhere, and it scales automatically as you grow."
         },
         "erp": {
-          "title": "ERP Development",
-          "description": "Custom ERP solutions and integrations that streamline business processes, improve efficiency, and provide unified data management."
+          "title": "Connecting Your Business Systems",
+          "description": "We connect all your tools—accounting, sales, inventory, customer management—so everything works together seamlessly."
         },
         "bi": {
-          "title": "BI & Business Intelligence",
-          "description": "End-to-end BI solutions from data warehousing to interactive dashboards, helping organizations make data-driven decisions."
+          "title": "Complete Business Intelligence",
+          "description": "From connecting your data sources to creating dashboards and reports, we handle everything so you can focus on running your business."
         }
       },
       "approach": {
         "title": "Our Approach",
-        "description": "We believe in understanding your business first. Every solution we deliver is tailored to your specific needs, industry, and goals. Our collaborative approach ensures that we work closely with your team to deliver solutions that not only meet technical requirements but also drive real business value.",
-        "description2": "From startups looking to establish their first data infrastructure to established enterprises seeking to modernize their analytics capabilities, we have the experience and expertise to guide you through your data journey."
+        "description": "We start by understanding your business—what you're trying to achieve, what problems you're facing, and what decisions you need to make. Then we build exactly what you need, nothing more. We work with you every step of the way, explaining everything in plain language, so you're never left wondering what's happening.",
+        "description2": "Whether you're a startup just getting started with data, or an established business ready to take it to the next level, we've helped businesses like yours see clearer, make better decisions, and grow faster."
       },
       "cta": {
-        "title": "Ready to Transform Your Data?",
-        "description": "Let's discuss how we can help your business leverage data for better decision-making and competitive advantage.",
+        "title": "Ready to See Your Business More Clearly?",
+        "description": "Let's talk about what you want to achieve and how we can help you get there.",
         "button": "Get In Touch"
       }
     }
   },
   "ro": {
     "hero": {
-      "title": "Transformă Datele în Acțiune",
-      "subtitle": "Servicii profesionale de business intelligence și analiză de date pentru decizii informate în afacerea ta",
+      "title": "Transformă datele tale în informații",
+      "subtitle": "Vezi exact ce funcționează în afacerea ta și ce nu. Obține informații clare care te ajută să iei decizii mai inteligente și să crești mai rapid.",
       "cta": "Începe Acum"
     },
     "services": {
-      "title": "Serviciile Noastre",
-      "subtitle": "Soluții complete de date adaptate nevoilor afacerii tale",
+      "title": "Ce vei obține",
+      "subtitle": "Tot ce ai nevoie pentru a înțelege mai bine afacerea ta și pentru a lua decizii care generează rezultate",
       "learnMore": "Află Mai Mult →",
       "dataStreams": {
-        "title": "Fluxuri și Surse de Date",
-        "description": "Conectează și integrează multiple surse de date într-un sistem unificat pentru un flux continuu de informații"
+        "title": "Toate datele tale într-un singur loc",
+        "description": "Nu mai sari între foi de calcul și sisteme diferite. Vezi tot ce ai nevoie într-un singur panou de control, actualizat automat."
       },
       "centralization": {
-        "title": "Centralizare și Transformare Date",
-        "description": "Centralizează sursele disparate de date și transformă-le în formate structurate și acționabile"
+        "title": "Informații curate și organizate",
+        "description": "Transformă datele haotice și împrăștiate în rapoarte clare și ușor de înțeles care te ajută să acționezi rapid."
       },
       "etl": {
-        "title": "Pipeline-uri ETL",
-        "description": "Construiește pipeline-uri robuste de Extragere, Transformare și Încărcare pentru procesare automată a datelor"
+        "title": "Rapoarte automate",
+        "description": "Nu mai muncești manual. Rapoartele tale se actualizează singure zilnic, săptămânal sau lunar, exact când ai nevoie de ele."
       },
       "dashboards": {
-        "title": "Dashboard-uri Interactive",
-        "description": "Creează dashboard-uri interactive și atractive care vizualizează metricile afacerii tale în timp real"
+        "title": "Panouri de control în timp real",
+        "description": "Vezi vânzările, clienții și indicatorii cheie dintr-o privire. Grafice clare care se actualizează în timp real, astfel încât să știi mereu exact unde te afli."
       },
       "insights": {
-        "title": "Insight-uri și Analiză Date",
-        "description": "Extrage insight-uri semnificative și răspunde la întrebări critice de business folosind analiză avansată"
+        "title": "Răspunsuri la întrebările tale",
+        "description": "Află de ce au scăzut vânzările, care clienți sunt cei mai valoroși sau ce generează costurile tale. Obține răspunsuri clare și acțiunabile, nu doar cifre."
       },
       "forecasting": {
-        "title": "Prognoze și Predicții",
-        "description": "Folosește modele de machine learning pentru a prognoza tendințe și a face predicții bazate pe date"
+        "title": "Prezice tendințele",
+        "description": "Știi ce urmează. Prezice vânzările, identifică tendințele înaintea competitorilor și planifică cu încredere pentru viitor."
       }
     },
     "serviceDetails": {
       "dataStreams": {
-        "title": "Fluxuri și Surse de Date",
-        "detailedDescription": "Te ajutăm să conectezi și să integrezi date din multiple surse într-un sistem unificat și fiabil. Fie că sunt baze de date, API-uri, servicii cloud sau dispozitive IoT, ne asigurăm că datele tale circulă continuu în organizația ta.",
+        "title": "Toate datele tale într-un singur loc",
+        "detailedDescription": "Nu mai pierde timpul sărind între foi de calcul, aplicații și sisteme diferite. Conectăm totul—software-ul tău de vânzări, instrumentele de contabilitate, analitica site-ului, baza de date cu clienți și multe altele—într-un singur panou de control care se actualizează automat. Vei vedea întreaga ta afacere dintr-o privire, fără muncă manuală.",
         "features": [
-          "Streaming și ingestie de date în timp real",
-          "Suport pentru multiple surse (SQL, NoSQL, API-uri, fișiere)",
-          "Validare automată și verificări de calitate",
-          "Arhitectură scalabilă pentru volume crescânde de date",
-          "Integrare cu platforme cloud (AWS, Azure, GCP)"
+          "Actualizări în timp real din toate sistemele tale",
+          "Funcționează cu orice instrument folosești (baze de date, aplicații, fișiere, servicii cloud)",
+          "Verificări automate pentru a asigura acuratețea datelor",
+          "Se adaptează automat pe măsură ce afacerea ta crește",
+          "Compatibil cu toate platformele cloud majore"
         ],
         "benefits": [
-          "Elimină silozurile de date între departamente",
-          "Acces la toate datele într-un singur loc",
-          "Reducere cu 80% a timpului de colectare manuală",
-          "Asigură consistența și fiabilitatea datelor",
-          "Scalabilitate ușoară pe măsură ce afacerea crește"
+          "Nu mai comuta între 5+ instrumente diferite",
+          "Vezi tot ce ai nevoie pe un singur ecran",
+          "Economisește peste 10 ore pe săptămână pe muncă manuală cu date",
+          "Ai mereu informații precise și actualizate",
+          "Adaugă instrumente noi ușor pe măsură ce afacerea ta crește"
         ]
       },
       "centralization": {
-        "title": "Centralizare și Transformare Date",
-        "detailedDescription": "Transformăm datele împrăștiate din diverse surse într-un format centralizat, curat și structurat. Creăm depozite și lacuri de date care devin sursa unică de adevăr pentru organizația ta.",
+        "title": "Informații curate și organizate",
+        "detailedDescription": "Datele tale sunt probabil haotice—formate diferite, informații lipsă, duplicate. Curățăm totul și le organizăm astfel încât să aibă sens. Vei obține rapoarte clare și consistente care te ajută cu adevărat să iei decizii, în loc de foi de calcul confuze care ridică mai multe întrebări decât răspunsuri.",
         "features": [
-          "Design și implementare data warehouse",
-          "Arhitectură data lake pentru date nestructurate",
-          "Curățare și standardizare date",
-          "Design și optimizare schemă",
-          "Păstrare și versionare date istorice"
+          "Organizează toate datele tale într-un loc central",
+          "Gestionează orice tip de date, structurate sau nestructurate",
+          "Curăță erori, duplicate și informații lipsă",
+          "Optimizează pentru raportare rapidă și precisă",
+          "Păstrează datele istorice sigure și accesibile"
         ],
         "benefits": [
-          "Sursă unică de adevăr pentru toate datele business",
-          "Performanță mai rapidă în interogări și raportare",
-          "Acuratețe și consistență îmbunătățită",
-          "Conformitate și guvernanță mai bună",
-          "Costuri de stocare reduse prin optimizare"
+          "O sursă fiabilă pentru toate datele afacerii tale",
+          "Rapoartele se încarcă instantaneu, nu mai aștepți",
+          "Ai încredere în datele tale—sunt mereu precise",
+          "Rămâi conform fără muncă suplimentară",
+          "Economisește bani pe stocare și procesare"
         ]
       },
       "etl": {
-        "title": "Pipeline-uri ETL",
-        "detailedDescription": "Construim pipeline-uri ETL (Extract, Transform, Load) robuste și automate care gestionează eficient nevoile de procesare a datelor. Pipeline-urile noastre sunt proiectate pentru fiabilitate, scalabilitate și ușurință în întreținere.",
+        "title": "Rapoarte automate",
+        "detailedDescription": "Obosit să petreci ore în fiecare săptămână creând aceleași rapoarte? Configurăm sisteme automate care extrag datele tale, le organizează și creează rapoartele tale automat—zilnic, săptămânal sau lunar. Configurează o dată și rulează pentru totdeauna. Vei primi rapoartele tale la timp, de fiecare dată, fără să ridici un deget.",
         "features": [
-          "Extracție automată din diverse surse",
-          "Transformări complexe și îmbogățire date",
-          "Strategii de încărcare incrementală și completă",
-          "Gestionare erori și recuperare date",
-          "Sisteme de monitorizare și alertare"
+          "Extrage automat date din toate sistemele tale",
+          "Transformă și organizează date automat",
+          "Actualizează doar ce s-a schimbat (mai rapid) sau reîmprospătează totul",
+          "Gestionează erorile automat și se recuperează dacă ceva se strică",
+          "Te alertează imediat dacă ceva nu funcționează corect"
         ],
         "benefits": [
-          "Elimină sarcinile manuale de procesare",
-          "Asigură prospețimea și actualitatea datelor",
-          "Reduce erorile și îmbunătățește calitatea",
-          "Economisește sute de ore lunar",
-          "Notificări instant la probleme"
+          "Nu mai crea rapoarte manuale niciodată",
+          "Ai mereu cele mai recente date",
+          "Mai puține greșeli, calitate mai bună",
+          "Economisește peste 20 de ore în fiecare lună",
+          "Știi imediat dacă ceva nu funcționează"
         ]
       },
       "dashboards": {
-        "title": "Dashboard-uri Interactive",
-        "detailedDescription": "Creăm dashboard-uri interactive spectaculoase care aduc datele tale la viață. Proiectăm vizualizări intuitive care te ajută să monitorizezi KPI-uri, să urmărești performanța și să iei decizii rapide bazate pe date în timp real.",
+        "title": "Panouri de control în timp real",
+        "detailedDescription": "Vezi întreaga ta afacere pe un singur ecran. Grafice și diagrame clare care îți arată vânzările, clienții, costurile și indicatorii cheie—toate actualizându-se în timp real. Apasă pentru a explora mai în detaliu, filtrează după dată sau produs și partajează cu echipa ta. Nu mai ghici. Nu mai aștepți rapoarte. Doar informații clare și vizuale ori de câte ori ai nevoie.",
         "features": [
-          "Design personalizat adaptat nevoilor tale",
-          "Vizualizare date în timp real",
-          "Filtre interactive și capabilități drill-down",
-          "Layout-uri responsive pentru mobil",
-          "Integrare cu instrumente BI populare (Tableau, Power BI, Looker)"
+          "Proiectat specific pentru ce ai nevoie să vezi",
+          "Se actualizează automat pe măsură ce vin date noi",
+          "Apasă pentru a explora mai în detaliu sau filtra după orice criteriu",
+          "Funcționează perfect pe telefon sau tabletă",
+          "Compatibil cu toate instrumentele majore de business intelligence"
         ],
         "benefits": [
-          "Monitorizează performanța business dintr-o privire",
-          "Decizii mai rapide bazate pe date",
-          "Partajare ușoară a insight-urilor între echipe",
-          "Identificare instant a tendințelor și anomaliilor",
-          "Creșterea productivității și alinierii echipei"
+          "Știi exact cum performează afacerea ta acum",
+          "Ia decizii în minute, nu zile",
+          "Partajează informații cu echipa ta instantaneu",
+          "Identifică probleme și oportunități imediat",
+          "Pune toată lumea pe aceeași pagină cu aceleași date"
         ]
       },
       "insights": {
-        "title": "Insight-uri și Analiză Date",
-        "detailedDescription": "Depășește raportarea de bază cu analiză avansată care descoperă patterns ascunse, răspunde la întrebări complexe și oferă insight-uri acționabile. Data scientists-ii noștri te ajută să înțelegi ce îți spun cu adevărat datele tale.",
+        "title": "Răspunsuri la întrebările tale",
+        "detailedDescription": "De ce au scăzut vânzările luna trecută? Care clienți sunt cei mai valoroși? Ce generează costurile tale? Căutăm în profunzime în datele tale pentru a găsi răspunsuri reale—nu doar cifre, ci informații pe care poți acționa. Vei înțelege afacerea ta în moduri în care nu ai putut niciodată înainte.",
         "features": [
-          "Analiză statistică avansată",
-          "Segmentare clienți și analiză comportament",
-          "Testare A/B și experimentare",
-          "Analiză cauză-rădăcină",
-          "Modele analitice personalizate"
+          "Analiză profundă pentru a găsi tipare ascunse",
+          "Grupează clienții după comportament și valoare",
+          "Testează strategii diferite pentru a vedea ce funcționează",
+          "Găsește cauza reală a problemelor",
+          "Construiește analiză personalizată pentru întrebările tale specifice"
         ],
         "benefits": [
-          "Descoperă oportunități de creștere",
-          "Înțelege profund comportamentul clienților",
-          "Optimizează operațiunile și reduce costurile",
-          "Răspunde la întrebări critice de business",
-          "Câștigă avantaj competitiv prin date"
+          "Găsește modalități noi de a-ți crește veniturile",
+          "Înțelege exact cum se comportă clienții",
+          "Reduce costurile fără a reduce calitatea",
+          "Obține răspunsuri clare la cele mai importante întrebări",
+          "Rămâi înaintea competitorilor cu informații mai bune"
         ]
       },
       "forecasting": {
-        "title": "Prognoze și Predicții",
-        "detailedDescription": "Folosește machine learning și modele statistice pentru a prezice tendințe viitoare, a prognoza cererea și a anticipa schimbările pieței. Ia decizii proactive bazate pe predicții fundamentate în date, nu pe intuiție.",
+        "title": "Prezice tendințele",
+        "detailedDescription": "Nu mai ghici ce urmează. Modelele noastre predictive îți arată vânzările viitoare, comportamentul clienților și tendințele pieței bazate pe datele tale reale. Planifică inventarul, prevină pierderea clienților, optimizează prețurile și identifică problemele înainte să apară. Ia decizii astăzi bazate pe ce se va întâmpla mâine.",
         "features": [
-          "Prognoze time series",
-          "Modele de predicție a cererii",
-          "Predicție și prevenire churn",
-          "Algoritmi de optimizare prețuri",
-          "Sisteme de detectare anomalii"
+          "Prezice vânzările și tendințele viitoare",
+          "Prognozează cererea pentru produse sau servicii",
+          "Identifică clienții care probabil vor pleca",
+          "Găsește cele mai bune prețuri automat",
+          "Detectează tipare neobișnuite înainte să devină probleme"
         ],
         "benefits": [
-          "Anticipează tendințele pieței înaintea competitorilor",
-          "Optimizează inventarul și reduce pierderile",
-          "Prezice și previne pierderea clienților",
-          "Îmbunătățește acuratețea planificării financiare",
-          "Ia decizii business proactive"
+          "Vezi oportunități înaintea competitorilor",
+          "Comandă cantitatea corectă, reduce risipa",
+          "Păstrează clienții înainte să plece",
+          "Planifică bugetele cu încredere",
+          "Rezolvă problemele înainte să te coste bani"
         ]
       }
     },
     "modal": {
-      "featuresTitle": "Caracteristici Cheie",
+      "featuresTitle": "Caracteristici cheie",
       "benefitsTitle": "Beneficii",
       "cta": "Începe Acum"
     },
     "whyUs": {
-      "title": "De Ce Să Ne Alegi",
+      "title": "De ce să ne alegi",
       "benefit1": {
-        "title": "Echipă de Experți",
-        "description": "Data scientists și ingineri experimentați dedicați succesului tău"
+        "title": "Vorbim limba ta",
+        "description": "Fără jargon tehnic. Explicăm totul în termeni simpli și ne concentrăm pe ce contează cu adevărat: rezultatele afacerii tale."
       },
       "benefit2": {
-        "title": "Soluții Personalizate",
-        "description": "Abordări adaptate cerințelor unice ale afacerii tale"
+        "title": "Construit pentru afacerea ta",
+        "description": "Fiecare soluție este personalizată pentru nevoile tale specifice. Obții exact ce ai nevoie, nimic mai mult, nimic mai puțin."
       },
       "benefit3": {
-        "title": "Rezultate Dovedite",
-        "description": "Istoric de succes în livrarea de valoare măsurabilă pentru business"
+        "title": "Rezultate reale pe care le poți vedea",
+        "description": "Clienții noștri economisesc ore în fiecare săptămână, iau decizii mai bune și cresc mai rapid. Vei vedea diferența imediat."
       }
     },
     "assessment": {
-      "title": "Evaluare Gratuită a Maturității BI",
-      "intro": "Descoperă unde se situează afacerea ta în ceea ce privește maturitatea datelor și transformarea digitală",
+      "title": "Verificare gratuită a sănătății afacerii",
+      "intro": "Vezi cât de bine folosești datele afacerii tale și unde ratezi oportunități",
       "feature1": {
-        "title": "Rapid & Ușor",
+        "title": "Rapid și ușor",
         "description": "Durează doar 10-15 minute pentru completare"
       },
       "feature2": {
-        "title": "Raport Personalizat",
-        "description": "Primești un raport gratuit de evaluare a maturității BI"
+        "title": "Raport personalizat",
+        "description": "Obține un raport gratuit care arată exact unde poți îmbunătăți"
       },
       "feature3": {
         "title": "100% Confidențial",
@@ -526,13 +526,13 @@
       },
       "cta": "Începe Evaluarea Gratuită",
       "card": {
-        "title": "Evaluează Maturitatea Datelor Tale",
-        "description": "Înțelege capabilitățile actuale și identifică oportunități de creștere"
+        "title": "Vezi unde te afli",
+        "description": "Înțelege ce faci bine și descoperă oportunități de dezvoltare mai rapidă"
       }
     },
     "contact": {
-      "title": "Intră în Legătură",
-      "subtitle": "Gata să îți transformi datele? Hai să discutăm despre proiectul tău",
+      "title": "Intră în legătură",
+      "subtitle": "Gata să-ți vezi afacerea mai clar? Hai să discutăm despre ce vrei să obții",
       "emailLabel": "Email",
       "phoneLabel": "Telefon",
       "loading": "Se încarcă...",
@@ -541,50 +541,50 @@
     },
     "footer": {
       "copyright": "© 2025 Enovis Software S.R.L. Toate drepturile rezervate.",
-      "privacy": "Politica de Confidențialitate",
-      "terms": "Termeni și Condiții",
-      "cookies": "Politica Cookie-uri"
+      "privacy": "Politica de confidențialitate",
+      "terms": "Termeni și condiții",
+      "cookies": "Politica cookie-uri"
     },
     "cookie": {
       "message": "Folosim cookie-uri pentru a îmbunătăți experiența ta. Continuând să vizitezi acest site, ești de acord cu utilizarea cookie-urilor.",
-      "learnMore": "Află Mai Mult",
+      "learnMore": "Află mai mult",
       "accept": "Accept"
     },
     "targetAudience": {
-      "title": "Cui Ne Adresăm",
+      "title": "Cui ne adresăm",
       "subtitle": "Lucrăm cu afaceri de toate dimensiunile, de la startup-uri la întreprinderi, din diverse industrii",
       "sme": {
-        "title": "Întreprinderi Mici și Mijlocii (IMM)",
-        "description": "Companii cu 10-250 de angajați care doresc să-și stabilească prima infrastructură de date, să automatizeze raportarea și să obțină insight-uri din datele lor de business fără complexitatea soluțiilor enterprise.",
+        "title": "Afaceri în dezvoltare",
+        "description": "Ești trecut de faza de startup și ai nevoie să înțelegi ce se întâmplă cu adevărat în afacerea ta. Nu mai ghici și începe să știi—cu rapoarte clare care îți arată exact unde să te concentrezi.",
         "needs": {
-          "0": "Soluții BI accesibile",
-          "1": "Implementare rapidă",
-          "2": "Dashboard-uri ușor de folosit",
-          "3": "Integrare date din multiple surse"
+          "0": "Soluții care se potrivesc bugetului tău",
+          "1": "Configurare în săptămâni, nu luni",
+          "2": "Panouri de control pe care oricine le poate înțelege",
+          "3": "Toate instrumentele tale conectate automat"
         }
       },
       "startups": {
-        "title": "Startup-uri și Scale-up-uri",
-        "description": "Companii în creștere rapidă (5-50 angajați) care au nevoie de soluții de date scalabile de la început, raportare pregătită pentru investitori și capabilități de luare a deciziilor bazate pe date pentru a alimenta creșterea.",
+        "title": "Startup-uri și scale-up-uri",
+        "description": "Crești rapid și ai nevoie să urmărești ce contează. Impresionează investitorii cu rapoarte profesionale, înțelege mai bine clienții tăi și ia decizii care alimentează dezvoltarea ta.",
         "needs": {
-          "0": "Arhitectură scalabilă",
-          "1": "Dashboard-uri pentru investitori",
-          "2": "Analiză produs",
-          "3": "Insight-uri comportament clienți"
+          "0": "Crește odată cu afacerea ta",
+          "1": "Rapoarte pregătite pentru investitori",
+          "2": "Vezi ce fac clienții cu adevărat",
+          "3": "Știi ce funcții generează rezultate"
         }
       },
       "corporations": {
-        "title": "Corporații și Întreprinderi Mari",
-        "description": "Organizații stabilite (250+ angajați) care caută să modernizeze sistemele legacy, să consolideze silozurile de date, să implementeze analiză avansată și să îmbunătățească guvernanța datelor între departamente.",
+        "title": "Companii stabilite",
+        "description": "Ai date peste tot dar nu poți vedea imaginea de ansamblu. Te ajutăm să conectezi totul, să elimini confuzia și să oferi fiecărui departament insight-urile de care are nevoie pentru a performa mai bine.",
         "needs": {
-          "0": "Data warehouses enterprise",
-          "1": "Analiză avansată & ML",
-          "2": "Guvernanță date & conformitate",
-          "3": "Integrare multi-departament"
+          "0": "Conectează toate sistemele tale",
+          "1": "Prezice tendințe și oportunități",
+          "2": "Rămâi conform automat",
+          "3": "O singură sursă de adevăr pentru toți"
         }
       },
       "industries": {
-        "title": "Industriile pe Care Le Servim",
+        "title": "Industriile pe care le servim",
         "retail": "Retail & E-commerce",
         "manufacturing": "Producție",
         "finance": "Servicii Financiare",
@@ -596,95 +596,95 @@
       }
     },
     "pricing": {
-      "title": "Prețuri & Investiție",
-      "subtitle": "Prețuri transparente adaptate nevoilor tale. Fiecare proiect primește o ofertă personalizată bazată pe scop și complexitate.",
+      "title": "Prețuri & investiție",
+      "subtitle": "Prețuri transparente adaptate nevoilor tale. Fiecare proiect primește o ofertă personalizată bazată pe ce vrei să obții.",
       "approach": {
-        "title": "Abordarea Noastră de Prețuri",
-        "description": "Credem în prețuri corecte și transparente. Fiecare proiect este unic, așa că oferim cotații personalizate după ce înțelegem cerințele tale specifice. Prețurile noastre se bazează pe scopul proiectului, complexitate, termen și nevoi de suport continuu."
+        "title": "Abordarea noastră de prețuri",
+        "description": "Credem în prețuri corecte și transparente. Fiecare afacere este unică, așa că oferim cotații personalizate după ce înțelegem obiectivele tale. Prețurile noastre se bazează pe ce vrei să urmărești, câte sisteme conectăm și cât suport vrei."
       },
       "ranges": {
-        "title": "Gamă de Investiții",
+        "title": "Gamă de investiții",
         "starter": {
-          "title": "Proiecte Starter",
-          "description": "Perfect pentru afaceri mici care încep cu analiza datelor",
+          "title": "Începând",
+          "description": "Perfect pentru afaceri gata să-și vadă datele clar pentru prima dată",
           "price": "De la €999",
           "features": {
-            "0": "Dashboard-uri de bază",
-            "1": "Integrări simple de date",
-            "2": "Configurare inițială BI",
+            "0": "Panouri de control esențiale",
+            "1": "Conectează 2-3 sisteme cheie",
+            "2": "Configurează rapoarte automate",
             "3": "Suport email"
           }
         },
         "standard": {
-          "title": "Proiecte Standard",
-          "popular": "Cel Mai Popular",
-          "description": "Ideal pentru afaceri în creștere gata să-și scaleze infrastructura de date",
+          "title": "Afacere în Dezvoltare",
+          "popular": "Cel mai popular",
+          "description": "Ideal pentru afaceri gata să automatizeze totul și să obțină informații mai profunde",
           "price": "€2,499 - €7,999",
           "features": {
-            "0": "Pipeline-uri ETL",
-            "1": "Data warehouses",
-            "2": "Dashboard-uri comprehensive",
-            "3": "Integrări multi-sursă",
+            "0": "Rapoarte automate zilnice",
+            "1": "Toate datele într-un singur loc",
+            "2": "Panouri de control business complete",
+            "3": "Conectează toate instrumentele tale",
             "4": "Suport prioritar"
           }
         },
         "enterprise": {
-          "title": "Soluții Enterprise",
-          "description": "Transformare completă de date pentru organizații mari",
+          "title": "Transformare completă",
+          "description": "Soluție completă pentru companii care vor să vadă totul și să prezică ce urmează",
           "price": "De la €7,999",
           "features": {
-            "0": "Arhitecturi complexe",
-            "1": "Analiză avansată & ML",
-            "2": "Transformare BI completă",
-            "3": "Suport dedicat",
-            "4": "Soluții personalizate"
+            "0": "Totul conectat",
+            "1": "Prezice tendințe viitoare",
+            "2": "Business intelligence complet",
+            "3": "Echipă de suport dedicată",
+            "4": "Construit personalizat pentru tine"
           }
         }
       },
-      "note": "Notă: Toate prețurile sunt în EUR și exclud TVA. Prețul final depinde de cerințele proiectului, volumul de date, complexitatea integrării și nivelul de suport. Oferim și pachete de retainer lunar pentru suport și întreținere continuă.",
-      "cta": "Obține Ofertă Personalizată"
+      "note": "Notă: Toate prețurile sunt în EUR și exclud TVA. Prețul final depinde de ce vrei să urmărești, câte sisteme conectăm și cât suport ai nevoie. Oferim și pachete lunare pentru actualizări și suport continuu.",
+      "cta": "Obține ofertă personalizată"
     },
     "about": {
       "title": "Despre Enovis Analytics",
-      "intro": "Suntem o consultanță specializată în business intelligence și analiză de date dedicată ajutării afacerilor să-și transforme datele în insight-uri acționabile și avantaje strategice.",
+      "intro": "Ajutăm antreprenorii și proprietarii de afaceri să-și vadă afacerea clar. Fără jargon tehnic. Fără rapoarte confuze. Doar insight-uri clare care te ajută să iei decizii mai bune și să crești mai rapid.",
       "experience": {
-        "title": "Experiența și Expertiza Noastră",
-        "description": "Cu experiență extinsă în multiple domenii ale tehnologiei și managementului datelor, aducem un set complet de competențe în fiecare proiect. Expertiza noastră acoperă:"
+        "title": "Ce facem",
+        "description": "Ne specializăm în a face datele afacerii tale să lucreze pentru tine. Iată la ce suntem experți:"
       },
       "expertise": {
         "web": {
-          "title": "Tehnologii Web",
-          "description": "Dezvoltare web modernă folosind framework-uri și tehnologii de ultimă generație pentru a construi aplicații scalabile, responsive și platforme de vizualizare date."
+          "title": "Construire panouri de control pe care le vei folosi cu adevărat",
+          "description": "Creăm panouri de control frumoase, ușor de înțeles care îți arată exact ce ai nevoie să vezi—pe computer, tabletă sau telefon."
         },
         "dataAnalysis": {
-          "title": "Analiză Date",
-          "description": "Analiză statistică avansată, data mining și recunoaștere pattern-uri pentru a descoperi insight-uri ascunse și a răspunde la întrebări complexe de business."
+          "title": "Găsirea răspunsurilor în datele tale",
+          "description": "Căutăm în profunzime pentru a găsi informațiile care contează: de ce s-au schimbat vânzările, care clienți sunt cei mai valoroși, ce generează costurile și multe altele."
         },
         "database": {
-          "title": "Administrare Baze de Date",
-          "description": "Management expert al bazelor de date SQL și NoSQL, optimizare, tuning performanță și asigurarea integrității datelor în sisteme enterprise."
+          "title": "Organizarea corectă a datelor tale",
+          "description": "Configurăm sisteme care mențin datele tale precise, rapide și fiabile—astfel încât să poți avea încredere în informațiile pe care le folosești pentru a lua decizii."
         },
         "cloud": {
-          "title": "Dezvoltare Cloud",
-          "description": "Construire soluții scalabile, cloud-native pe AWS, Azure și GCP, inclusiv arhitecturi serverless și data warehouses cloud."
+          "title": "Soluții bazate pe cloud",
+          "description": "Construim soluții care funcționează în cloud, astfel încât să poți accesa totul de oriunde și să se adapteze automat pe măsură ce afacerea ta crește."
         },
         "erp": {
-          "title": "Dezvoltare ERP",
-          "description": "Soluții și integrări ERP personalizate care optimizează procesele de business, îmbunătățesc eficiența și oferă management unificat al datelor."
+          "title": "Conectarea sistemelor tale de business",
+          "description": "Conectăm toate instrumentele tale—contabilitate, vânzări, inventar, management clienți—astfel încât totul să funcționeze perfect împreună."
         },
         "bi": {
-          "title": "BI & Business Intelligence",
-          "description": "Soluții BI end-to-end de la data warehousing la dashboard-uri interactive, ajutând organizațiile să ia decizii bazate pe date."
+          "title": "Business intelligence complet",
+          "description": "De la conectarea surselor de date la crearea panourilor de control și rapoartelor, gestionăm totul astfel încât tu să te poți concentra pe gestionarea afacerii tale."
         }
       },
       "approach": {
-        "title": "Abordarea Noastră",
-        "description": "Credem în înțelegerea afacerii tale mai întâi. Fiecare soluție pe care o livrăm este adaptată nevoilor, industriei și obiectivelor tale specifice. Abordarea noastră colaborativă asigură că lucrăm strâns cu echipa ta pentru a livra soluții care nu doar îndeplinesc cerințele tehnice, ci și generează valoare reală de business.",
-        "description2": "De la startup-uri care doresc să-și stabilească prima infrastructură de date la întreprinderi stabilite care caută să-și modernizeze capabilitățile de analiză, avem experiența și expertiza pentru a te ghida în călătoria ta cu datele."
+        "title": "Abordarea noastră",
+        "description": "Începem prin a înțelege afacerea ta—ce încerci să obții, ce probleme întâmpini și ce decizii trebuie să iei. Apoi construim exact ce ai nevoie, nimic mai mult. Lucrăm cu tine la fiecare pas, explicând totul în termeni simpli, astfel încât să nu rămâi niciodată să te întrebi ce se întâmplă.",
+        "description2": "Fie că ești un startup care abia începe cu datele, sau o afacere stabilită gata să o ducă la următorul nivel, am ajutat afaceri ca a ta să vadă mai clar, să ia decizii mai bune și să crească mai rapid."
       },
       "cta": {
-        "title": "Gata să-ți Transformi Datele?",
-        "description": "Hai să discutăm despre cum te putem ajuta să valorifici datele pentru o luare mai bună a deciziilor și un avantaj competitiv.",
+        "title": "Gata să-ți vezi afacerea mai clar?",
+        "description": "Hai să discutăm despre ce vrei să obții și cum te putem ajuta să ajungi acolo.",
         "button": "Intră în Legătură"
       }
     }
